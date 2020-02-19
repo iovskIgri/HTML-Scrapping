@@ -1,5 +1,9 @@
-from selenium import webdrive
-from BeatifulSoup import BeautifulSoup
-import panda as pd
+import requests
+from lxml import html
 
-driver = webdriver.Chrome("")
+page = requests.get("https://www.zeit.de/politik/ausland/2020-02/julian-assange-usa-donald-trump-begnadigung-russland")
+tree = html.fromstring(page.content)
+
+text = tree.xpath('//p[@class="paragraph article item"]/text()')
+
+print(text)
