@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fcea7c7-b267-4bf5-a4fa-bbece1f0bba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lxml_test_scrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soup_test_scrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml_traversion_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/html_scrapping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html_scrapping.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxml_test_scrap" beforeDir="false" afterPath="$PROJECT_DIR$/lxml_test_scrap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxml_test_scrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/lxml_test_scrap.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.lxml_test_scrap">
+  <component name="RunManager" selected="Python.xml_traversion_test">
     <configuration name="frontpage_scrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="html_scrapping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,6 +95,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="soup_test_scrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="html_scrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soup_test_scrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_scrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="html_scrapping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,8 +137,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="xml_traversion_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="html_scrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xml_traversion_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.xml_traversion_test" />
+        <item itemvalue="Python.soup_test_scrap" />
         <item itemvalue="Python.lxml_test_scrap" />
         <item itemvalue="Python.frontpage_scrap" />
         <item itemvalue="Python.test_scrap" />
@@ -156,39 +203,46 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="616" y="127" width="702" height="821" key="CommitChangelistDialog2/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582138913420" />
-    <state x="743" y="321" width="424" height="480" key="FileChooserDialogImpl" timestamp="1582137363838">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="557" y="271" width="424" height="480" key="FileChooserDialogImpl" timestamp="1583150469091">
+      <screen x="0" y="28" width="1440" height="872" />
     </state>
+    <state x="557" y="271" key="FileChooserDialogImpl/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583150469091" />
     <state x="743" y="321" width="424" height="480" key="FileChooserDialogImpl/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582137363838" />
-    <state width="1345" height="177" key="GridCell.Tab.0.bottom" timestamp="1582812121551">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1419" height="221" key="GridCell.Tab.0.bottom" timestamp="1583158740516">
+      <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582812121550" />
+    <state width="1419" height="221" key="GridCell.Tab.0.bottom/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583158740516" />
     <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582138814491" />
-    <state width="1345" height="177" key="GridCell.Tab.0.center" timestamp="1582812121543">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1419" height="221" key="GridCell.Tab.0.center" timestamp="1583158740516">
+      <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582812121543" />
+    <state width="1419" height="221" key="GridCell.Tab.0.center/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583158740516" />
     <state width="1899" height="280" key="GridCell.Tab.0.center/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582138814491" />
-    <state width="1345" height="177" key="GridCell.Tab.0.left" timestamp="1582812121541">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1419" height="221" key="GridCell.Tab.0.left" timestamp="1583158740516">
+      <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582812121541" />
+    <state width="1419" height="221" key="GridCell.Tab.0.left/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583158740516" />
     <state width="1899" height="280" key="GridCell.Tab.0.left/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582138814491" />
-    <state width="1345" height="177" key="GridCell.Tab.0.right" timestamp="1582812121544">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1419" height="221" key="GridCell.Tab.0.right" timestamp="1583158740516">
+      <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582812121544" />
+    <state width="1419" height="221" key="GridCell.Tab.0.right/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583158740516" />
     <state width="1899" height="280" key="GridCell.Tab.0.right/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582138814491" />
-    <state x="195" y="27" width="992" height="737" key="SettingsEditor" timestamp="1582810743785">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="252" y="44" width="992" height="737" key="SettingsEditor" timestamp="1583152037033">
+      <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state x="195" y="27" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1582810743785" />
+    <state x="252" y="44" key="SettingsEditor/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583152037033" />
     <state x="464" y="189" key="SettingsEditor/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582137726889" />
-    <state x="455" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1582787256274">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="480" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1583140440023">
+      <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state x="455" y="276" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1582787256274" />
+    <state x="480" y="321" key="com.intellij.ide.util.TipDialog/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583140440023" />
     <state x="639" y="381" key="com.intellij.ide.util.TipDialog/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582132844850" />
   </component>
 </project>

@@ -1,15 +1,11 @@
-from lxml import etree
+from lxml import html, etree
 import requests
-from bs4 import BeautifulSoup
-import urllib3
 
-url = "http://www.zeit.de/index"
+url = "https://www.zeit.de/index"
 
 url_content = requests.get(url)
 
-output = BeautifulSoup(url_content.content)
+extracted_content = html.fromstring(url_content.content)
 
-print(output.prettify())
 
-with open("lxml_test_scrap", "w") as file:
-    file.write(str(output))
+print(url_content.content)
