@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fcea7c7-b267-4bf5-a4fa-bbece1f0bba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/soup_test_scrap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml_traversion_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html_scrapping.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html_scrapping.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lxml_test_scrap" beforeDir="false" afterPath="$PROJECT_DIR$/lxml_test_scrap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lxml_test_scrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/lxml_test_scrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxml_test_scrap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lxml_test_scrap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soup_test_scrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/soup_test_scrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml_traversion_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml_traversion_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +18,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Späteinsteiger Bloomberg kann bei seinem ersten Auftritt die Kritik seiner Gegner nicht kontern. Elizabeth Warren hatte nach enttäuschenden Vorwahlen einen besseren Tag.</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -161,8 +153,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.xml_traversion_test" />
-        <item itemvalue="Python.soup_test_scrap" />
         <item itemvalue="Python.lxml_test_scrap" />
+        <item itemvalue="Python.soup_test_scrap" />
         <item itemvalue="Python.frontpage_scrap" />
         <item itemvalue="Python.test_scrap" />
       </list>
@@ -180,15 +172,6 @@
       <updated>1582104093346</updated>
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="215" width="800" height="673" key="#Inspections" timestamp="1582133204952">
@@ -208,35 +191,35 @@
     </state>
     <state x="557" y="271" key="FileChooserDialogImpl/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583150469091" />
     <state x="743" y="321" width="424" height="480" key="FileChooserDialogImpl/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582137363838" />
-    <state width="1419" height="221" key="GridCell.Tab.0.bottom" timestamp="1583158740516">
+    <state width="1419" height="221" key="GridCell.Tab.0.bottom" timestamp="1583327178862">
       <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582812121550" />
-    <state width="1419" height="221" key="GridCell.Tab.0.bottom/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583158740516" />
+    <state width="1419" height="221" key="GridCell.Tab.0.bottom/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327178862" />
     <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582138814491" />
-    <state width="1419" height="221" key="GridCell.Tab.0.center" timestamp="1583158740516">
+    <state width="1419" height="221" key="GridCell.Tab.0.center" timestamp="1583327178861">
       <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582812121543" />
-    <state width="1419" height="221" key="GridCell.Tab.0.center/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583158740516" />
+    <state width="1419" height="221" key="GridCell.Tab.0.center/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327178861" />
     <state width="1899" height="280" key="GridCell.Tab.0.center/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582138814491" />
-    <state width="1419" height="221" key="GridCell.Tab.0.left" timestamp="1583158740516">
+    <state width="1419" height="221" key="GridCell.Tab.0.left" timestamp="1583327178861">
       <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582812121541" />
-    <state width="1419" height="221" key="GridCell.Tab.0.left/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583158740516" />
+    <state width="1419" height="221" key="GridCell.Tab.0.left/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327178861" />
     <state width="1899" height="280" key="GridCell.Tab.0.left/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582138814491" />
-    <state width="1419" height="221" key="GridCell.Tab.0.right" timestamp="1583158740516">
+    <state width="1419" height="221" key="GridCell.Tab.0.right" timestamp="1583327178861">
       <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582812121544" />
-    <state width="1419" height="221" key="GridCell.Tab.0.right/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583158740516" />
+    <state width="1419" height="221" key="GridCell.Tab.0.right/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327178861" />
     <state width="1899" height="280" key="GridCell.Tab.0.right/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582138814491" />
-    <state x="252" y="44" width="992" height="737" key="SettingsEditor" timestamp="1583152037033">
+    <state x="252" y="44" width="992" height="737" key="SettingsEditor" timestamp="1583327303051">
       <screen x="0" y="28" width="1440" height="872" />
     </state>
     <state x="195" y="27" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1582810743785" />
-    <state x="252" y="44" key="SettingsEditor/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583152037033" />
+    <state x="252" y="44" key="SettingsEditor/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327303051" />
     <state x="464" y="189" key="SettingsEditor/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582137726889" />
     <state x="480" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1583140440023">
       <screen x="0" y="28" width="1440" height="872" />
