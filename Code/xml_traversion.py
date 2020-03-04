@@ -2,7 +2,7 @@ from lxml import html, etree
 #Objekt durchsucht den HTML Baum.
 parser = etree.HTMLParser()
 #Baumobjekt das mit dem zuvor definierten Parser durchsucht werden kann.
-tree = etree.parse("lxml_test_scrap.xml", parser)
+tree = etree.parse("soup_test_scrap.xml", parser)
 
 #Definitionen der gesuchten HTML Tags als Listen. Xpath-Ausdruck gibt den Text aller Baumknoten wieder, die das definierte Tag haben.
 elements_text = tree.xpath('//p[@class="zon-teaser-standard__text"]/text()')
