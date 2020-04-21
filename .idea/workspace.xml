@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6fcea7c7-b267-4bf5-a4fa-bbece1f0bba5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020_Feb_27_0826_zon-teaser-standard__text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020_Feb_27_1449_zon-teaser-standard__text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lxml_test_scrap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/paragraph article__item.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/soup_test_scrap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_traversion_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zon-teaser-standard__heading.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zon-teaser-standard__text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zon-teaser-standard__title.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +32,6 @@
   <component name="ProjectId" id="1Y2FZEK5ZN5bBoxQZZu1xtL6aqd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -52,7 +41,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.soup_scrap">
+  <component name="RunManager" selected="Python.aio_scrap">
+    <configuration name="aio_scrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="html_scrapping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/aio_scrap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lxml_test_scrap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="html_scrapping" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,9 +130,11 @@
       <item itemvalue="Python.lxml_test_scrap" />
       <item itemvalue="Python.soup_scrap" />
       <item itemvalue="Python.xml_traversion" />
+      <item itemvalue="Python.aio_scrap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aio_scrap" />
         <item itemvalue="Python.soup_scrap" />
         <item itemvalue="Python.xml_traversion" />
         <item itemvalue="Python.lxml_test_scrap" />
@@ -165,39 +177,39 @@
     <state x="528" y="234" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1583341161609" />
     <state x="557" y="271" key="FileChooserDialogImpl/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583150469091" />
     <state x="743" y="321" width="424" height="480" key="FileChooserDialogImpl/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1582137363838" />
-    <state width="949" height="279" key="GridCell.Tab.0.bottom" timestamp="1583350590423">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="1345" height="158" key="GridCell.Tab.0.bottom" timestamp="1587464378619">
+      <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582812121550" />
-    <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1583348705884" />
+    <state width="1345" height="158" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1587464378619" />
     <state width="1419" height="221" key="GridCell.Tab.0.bottom/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327178862" />
     <state width="949" height="279" key="GridCell.Tab.0.bottom/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1583350590423" />
-    <state width="949" height="279" key="GridCell.Tab.0.center" timestamp="1583350590423">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="1345" height="158" key="GridCell.Tab.0.center" timestamp="1587464378616">
+      <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582812121543" />
-    <state width="1345" height="176" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1583348705874" />
+    <state width="1345" height="158" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1587464378616" />
     <state width="1419" height="221" key="GridCell.Tab.0.center/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327178861" />
     <state width="949" height="279" key="GridCell.Tab.0.center/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1583350590423" />
-    <state width="949" height="279" key="GridCell.Tab.0.left" timestamp="1583350590423">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="1345" height="158" key="GridCell.Tab.0.left" timestamp="1587464378615">
+      <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582812121541" />
-    <state width="1345" height="176" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1583348705873" />
+    <state width="1345" height="158" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1587464378615" />
     <state width="1419" height="221" key="GridCell.Tab.0.left/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327178861" />
     <state width="949" height="279" key="GridCell.Tab.0.left/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1583350590423" />
-    <state width="949" height="279" key="GridCell.Tab.0.right" timestamp="1583350590423">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="1345" height="158" key="GridCell.Tab.0.right" timestamp="1587464378618">
+      <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state width="1345" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582812121544" />
-    <state width="1345" height="176" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1583348705883" />
+    <state width="1345" height="158" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1587464378618" />
     <state width="1419" height="221" key="GridCell.Tab.0.right/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327178861" />
     <state width="949" height="279" key="GridCell.Tab.0.right/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1583350590423" />
-    <state x="464" y="189" width="932" height="726" key="SettingsEditor" timestamp="1583350049557">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="239" y="42" width="922" height="726" key="SettingsEditor" timestamp="1587461516514">
+      <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="195" y="27" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1582810743785" />
-    <state x="239" y="42" width="932" height="726" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1583341479250" />
+    <state x="239" y="42" width="922" height="726" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1587461516514" />
     <state x="252" y="44" key="SettingsEditor/0.28.1440.872/1440.0.1440.900@0.28.1440.872" timestamp="1583327303051" />
     <state x="464" y="189" key="SettingsEditor/0.28.1920.1052/1920.0.1920.1080@0.28.1920.1052" timestamp="1583350049557" />
     <state x="480" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1583140440023">
