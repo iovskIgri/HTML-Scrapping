@@ -29,6 +29,7 @@ def get_date():
 
     return date
 
+
 #Definition der Dateinamen, die sich aus dem aktuellen Datum und der Uhrzeit ergeben.
 zon_filestring = get_date() + "_" + "zon_soup_scrap.xml"
 nzzon_filestring = get_date() + "_" + "nzzon_soup_scrap.xml"
@@ -55,19 +56,11 @@ def soup_scrap(url):
             file.write(str(output))
         return file
 
-#Methode zur Überprüfung der Formatierung der gescrappten Daten. Sie dient lediglich zum Debugging von Formatfehlern.
-def search_tree(filename):
-    # Schreibe die Datei mit gegebenen Daten in gegebenes Format.
-    with open(filename, "w+") as file:
-        for i in range(0, len(zon_elem_title) - 1):
-            file.write("{}{}{}{}".format(zon_elem_title[i], "\n", zon_elem_text[i], "\n\n"))
-
-    return file
-
 
 #Auslösen des jeweiligen Scraps.
 soup_scrap('https://www.zeit.de/index')
 soup_scrap('https://www.nzz.ch')
+
 
 #Definition des jeweiligen Baumobjekts und Zuweisung des zugehörigen Durchsuchungsobjekts.
 zon_tree = etree.parse(zon_filestring, zon_parser)
@@ -85,7 +78,17 @@ nzzon_elem_title = nzzon_tree.xpath('//span[@class="teaser__title-name"]/text()'
 nzzon_elem_author = nzzon_tree.xpath('//span[@class="metainfo__item metainfo__item--author"]/text()')
 
 
-#Alles hier drunter ist zum Debugging da.
+#Programmierhilfsmethopen.
+
+#Methode zur Überprüfung der Formatierung der gescrappten Daten. Sie dient lediglich zum Debugging von Formatfehlern.
+def search_tree(filename):
+    # Schreibe die Datei mit gegebenen Daten in gegebenes Format.
+    with open(filename, "w+") as file:
+        for i in range(0, len(zon_elem_title) - 1):
+            file.write("{}{}{}{}".format(zon_elem_title[i], "\n", zon_elem_text[i], "\n\n"))
+
+    return file
+
 print(nzzon_elem_title)
 print(nzzon_elem_text)
 print(nzzon_elem_author)
