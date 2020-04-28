@@ -5,11 +5,17 @@ import time
 
 
 #Definition der beiden "Durchsuchungsobjekte" die ihre jeweilige Baumstruktur dursuchen werden.
+#TODO niedriger Prio: Zuweisung des Parsers als allgemeine Methode.
 #zeit.de
 zon_parser = etree.HTMLParser()
 #nzz.ch
 nzzon_parser = etree.HTMLParser()
-
+#hon.com
+hon_parser = etree.HTMLParser()
+#tagon.de
+tagon_parser = etree.HTMLParser()
+#dwon.com
+dwon_parser= etree.HTMLParser()
 
 #Methode zur Ermittlung des Datums und der Uhrzeit des Scraps. Sie wird später bei der Erstellung des Dateinamens verwendet.
 def get_date():
@@ -31,8 +37,12 @@ def get_date():
 
 
 #Definition der Dateinamen, die sich aus dem aktuellen Datum und der Uhrzeit ergeben.
+#TODO niedriger Prio: Filestring Objekt Erstellung per allgemeingültiger Methode.
 zon_filestring = get_date() + "_" + "zon_soup_scrap.xml"
 nzzon_filestring = get_date() + "_" + "nzzon_soup_scrap.xml"
+hon_filestring = get_date() + "_" + "hon_soup_scrap.xml"
+tagon_filestring= get_date() + "_" + "tagon_soup_scrap.xml"
+dwon_filestring = get_date() + "_" + "dwon_soupscrap.xml"
 
 #Methode zum Schreiben des HTML Contents einer Webseite in eine xml Datei. Erwartet die zu scrapende URL als String.
 #Das Speichern ist notwendig da sonst nicht gezielt auf Tags zurückgegriffen werden kann, es kommt zu einem Synchronisationsfehler.
@@ -40,16 +50,32 @@ def soup_scrap(url):
 
     #Definition der Abfrage des Web-Inhalts
     url_content = requests.get(url)
-    #Definition der Ausgabe des von BeatifulSoup4 bereitgestellten Web-Inhalts
-    output = BeautifulSoup(url_content.content, features="lxml")
-
+    #Definition der Ausgabe des von BeatifulSoup4 bereitgestellten Web-Inhalts.
+    site_content = BeautifulSoup(url_content.content, features="lxml")
+    output = site_content
     #Festlegen welcher Dateiname, in Abhängigkeit von der gecrappten Seite, gewählt werden soll.
-    if (url == "https://www.zeit.de/index"):
+    if url == "https://www.zeit.de/index":
 
         with open(zon_filestring, "w") as file:
             file.write(str(output))
         return file
 
+    if url == "https://www.handelsblatt.com":
+
+        with open(hon_filestring, "w") as file:
+            file.write(str(output))
+        return file
+
+    if url == "https://www.tagesschau.de":
+
+        with open(tagon_filestring, "w") as file:
+            file.write(str(output))
+        return file
+
+    if url == "https://www.dw.com/de/top-stories/s-9077":
+        with open(dwon_filestring, "w") as file:
+            file.write(str(output))
+        return file
     else:
 
         with open(nzzon_filestring, "w") as file:
@@ -60,25 +86,52 @@ def soup_scrap(url):
 #Auslösen des jeweiligen Scraps.
 soup_scrap('https://www.zeit.de/index')
 soup_scrap('https://www.nzz.ch')
-
+soup_scrap('https://www.handelsblatt.com')
+soup_scrap('https://www.tagesschau.de')
+soup_scrap('https://www.dw.com/de/top-stories/s-9077')
 
 #Definition des jeweiligen Baumobjekts und Zuweisung des zugehörigen Durchsuchungsobjekts.
+#TODO niedriger Prio: Baumobjekterstellung und Parserzuweisung per Methode.
 zon_tree = etree.parse(zon_filestring, zon_parser)
 nzzon_tree = etree.parse(nzzon_filestring, nzzon_parser)
+hon_tree = etree.parse(hon_filestring, hon_parser)
+tagon_tree = etree.parse(tagon_filestring, tagon_parser)
+dwon_tree = etree.parse(dwon_filestring, dwon_parser)
 
 
-#Definitionen der gesuchten HTML Tags als Listen. Xpath-Ausdruck gibt den Text aller Baumknoten wieder, die das definierte Tag haben.
-#zeit.de
+
+#Xpath-Ausdruck gibt den Text aller Baumknoten wieder, die das definierte Tag haben. Das durch das Tag wiedergegebene Element
+#ist ein String, der in der Elementliste (xxx_elem_xxx) gespeichert wird.
+#TODO niedriger Prio: Beiseitigung von Indexfehlern, die durch verschiedene Atikelstrukturen der Webseiten erzeugt werden.
+#DIES SIND DIE IN DIE DATENBANK ZU SCHREIBENDEN VARIABLEN
+#zeit.de (database ready)
 zon_elem_text = zon_tree.xpath('//p[@class="zon-teaser-standard__text"]/text()')
 zon_elem_title = zon_tree.xpath('//span[@class="zon-teaser-standard__title"]/text()')
 zon_elem_author = zon_tree.xpath('//span[@class="zon-teaser-standard__byline"]/text()')
-#nzz.ch
+#nzz.ch(database ready)
 nzzon_elem_text = nzzon_tree.xpath('//div[@class="teaser__lead teaser__lead--2of3 teaser__lead--longformstandard"]/text()')
 nzzon_elem_title = nzzon_tree.xpath('//span[@class="teaser__title-name"]/text()')
 nzzon_elem_author = nzzon_tree.xpath('//span[@class="metainfo__item metainfo__item--author"]/text()')
+#hon.com(database ready)
+hon_elem_text = hon_tree.xpath('//p[@class="vhb-teaser-content"]/text()')
+hon_elem_title = hon_tree.xpath('//span[@class="vhb-headline"]/text()')
+hon_elem_author = hon_tree.xpath('//span[@class="vhb-author"]/text()')
+#tagesschau.de(database ready)
+tagon_elem_text = tagon_tree.xpath('//p[@class="teasertext"]/text()')
+tagon_elem_title = tagon_tree.xpath('//h4[@class="headline"]/text()')
+tagon_elem_author = tagon_tree.xpath('//em')
+
+#TODO HOHER PRIO: Einlesen der Strings, die in den Elementlisten (xxx_elem_xxx) enthalten sind, in die Datenbank.
 
 
-#Programmierhilfsmethopen.
+
+#dwon.com (Hier muss ich mir noch eine bessere Verarbeitung der gescrapten Daten überlegen. Vorerst auslassen)
+dwon_elem_text = dwon_tree.xpath('//p/text()')
+#dwon_elem_title = dwon_tree.cpath('//h4/text()')
+
+
+
+#HILFSMETHODEN.
 
 #Methode zur Überprüfung der Formatierung der gescrappten Daten. Sie dient lediglich zum Debugging von Formatfehlern.
 def search_tree(filename):
@@ -89,13 +142,24 @@ def search_tree(filename):
 
     return file
 
-print(nzzon_elem_title)
-print(nzzon_elem_text)
-print(nzzon_elem_author)
+#Kommentar entfernen um sich Elementliste anzeigen zu lassen.
+#print(nzzon_elem_title)
+#print(nzzon_elem_text)
+#print(nzzon_elem_author)
 
-print(zon_elem_title)
-print(zon_elem_text)
-print(zon_elem_author)
+#print(zon_elem_title)
+#print(zon_elem_text)
+#print(zon_elem_author)
+
+#print(hon_elem_title)
+#print(hon_elem_text)
+#print(hon_elem_author)
+
+#print(dwon_elem_text)
+
+#print(tagon_elem_title)
+#print(tagon_elem_text)
+#print(tagon_elem_author)
 
 #search_tree(spon_filestring)
 #search_tree(zon_filestring)

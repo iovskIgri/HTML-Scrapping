@@ -1,0 +1,2089 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><!--><html class="ie ie6" lang="de"> <!--<![endif]-->
+<!--[if IE 7 ]><!-->
+<!--<![endif]-->
+<!--[if IE 8 ]><!-->
+<!--<![endif]-->
+<!--[if IE 9 ]><!-->
+<!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<!--<![endif]-->
+<head>
+<link href="https://www.dw.com/de/themen/s-9077" rel="canonical"/>
+<link href="https://m.dw.com/de/themen/s-9077" media="only screen and (max-width: 640px)" rel="alternate"/>
+<script src="/js/jquery-3.4.1.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
+<script src="/js/dsgvo/dsgvo_utils.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.languagePreferenceTTL = 2628000;
+var languagePreferenceTTL = 2628000;
+var hostNameMobile = "https://m.dw.com";
+var mobileRedirectTTL = 86400;
+</script>
+<script src="/js/de.dw.cdaLanguage.min.js?v=6.56.0" type="text/javascript"></script>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<!--[if IE]>
+<meta http-equiv="imagetoolbar" content="no"><![endif]-->
+<!-- PAGINATION for SEO -->
+<meta content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
+<meta content="1 days" name="revisit-after"/>
+<meta content="Deutsche Welle (www.dw.com)" name="publisher"/>
+<meta content="© 2020 Deutsche Welle (www.dw.com)" name="copyright"/>
+<meta content="Deutsche Welle (www.dw.com)" name="author"/>
+<meta content="app-id=498833085" name="apple-itunes-app"/>
+<meta content="app-id=com.idmedia.android.newsportal" name="google-play-app"/>
+<link href="/favicon.png" rel="icon" type="image/png"/>
+<link href="/favicon.png" rel="apple-touch-icon"/>
+<meta content="de_DE" name="language"/>
+<meta content="146634408702997" property="fb:pages"/>
+<meta content="146822482008281" property="fb:pages"/>
+<meta content="46657640977" property="fb:pages"/>
+<meta content="66069193936" property="fb:pages"/>
+<meta content="338998993519" property="fb:pages"/>
+<meta content="164418313578851" property="fb:pages"/>
+<meta content="180013702044400" property="fb:pages"/>
+<meta content="141111232580541" property="fb:pages"/>
+<meta content="130435762955" property="fb:pages"/>
+<meta content="24369314439" property="fb:pages"/>
+<meta content="131314590235972" property="fb:pages"/>
+<meta content="204430626300528" property="fb:pages"/>
+<meta content="229148123764036" property="fb:pages"/>
+<meta content="533361940012569" property="fb:pages"/>
+<meta content="49621769215" property="fb:pages"/>
+<meta content="142061114273" property="fb:pages"/>
+<meta content="125113390860188" property="fb:pages"/>
+<meta content="144393622272640" property="fb:pages"/>
+<meta content="245974238781165" property="fb:pages"/>
+<meta content="171270196224553" property="fb:pages"/>
+<meta content="118184978196457" property="fb:pages"/>
+<meta content="178734186974" property="fb:pages"/>
+<meta content="329373860454526" property="fb:pages"/>
+<meta content="107256659303602" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="122470481130194" property="fb:pages"/>
+<meta content="114256188645" property="fb:pages"/>
+<meta content="165174814436" property="fb:pages"/>
+<meta content="155438574470276" property="fb:pages"/>
+<meta content="50498982209" property="fb:pages"/>
+<meta content="146790007393" property="fb:pages"/>
+<meta content="164947183521601" property="fb:pages"/>
+<meta content="211745678846355" property="fb:pages"/>
+<meta content="134391923301563" property="fb:pages"/>
+<meta content="63821723396" property="fb:pages"/>
+<meta content="188157417929359" property="fb:pages"/>
+<meta content="183239561787790" property="fb:pages"/>
+<meta content="449623021724487" property="fb:pages"/>
+<meta content="138206409609783" property="fb:pages"/>
+<meta content="85945845557" property="fb:pages"/>
+<meta content="226482300719948" property="fb:pages"/>
+<meta content="60713064323" property="fb:pages"/>
+<meta content="239025992817731" property="fb:pages"/>
+<meta content="822896961134864" property="fb:pages"/>
+<meta content="522458607878947" property="fb:pages"/>
+<meta content="188850101556821" property="fb:pages"/>
+<meta content="618268655042471" property="fb:pages"/>
+<meta content="423198735471" property="fb:pages"/>
+<meta content="276810869063357" property="fb:pages"/>
+<meta content="100960075341" property="fb:pages"/>
+<meta content="80408983549" property="fb:pages"/>
+<meta content="100897936618493" property="fb:pages"/>
+<meta content="138706041945" property="fb:pages"/>
+<meta content="211775368865879" property="fb:pages"/>
+<meta content="171400242905536" property="fb:pages"/>
+<meta content="132731133463621" property="fb:pages"/>
+<meta content="195750250443390" property="fb:pages"/>
+<meta content="179443708766951" property="fb:pages"/>
+<meta content="1804124663153407" property="fb:pages"/>
+<meta content="134957921127" property="fb:pages"/>
+<meta content="308858529571862" property="fb:pages"/>
+<meta content="245084839304894" property="fb:pages"/>
+<meta content="1643141409322787" property="fb:pages"/>
+<meta content="161206864395653" property="fb:pages"/>
+<meta content="166280690549965" property="fb:pages"/>
+<meta content="1306227629456410" property="fb:pages"/>
+<meta content="172144003288251" property="fb:pages"/>
+<meta content="789839844513554" property="fb:pages"/>
+<meta content="1907513229480533" property="fb:pages"/>
+<meta content="1673788669587458" property="fb:pages"/>
+<meta content="475937372553968" property="fb:pages"/>
+<meta content="670958179648696" property="fb:pages"/>
+<meta content="608485009178753" property="fb:pages"/>
+<meta content="174528749295024" property="fb:pages"/>
+<meta content="86161846910" property="fb:pages"/>
+<meta content="268396416590741" property="fb:pages"/>
+<meta content="239261806709" property="fb:pages"/>
+<meta content="61626715828" property="fb:pages"/>
+<meta content="210354862357400" property="fb:pages"/>
+<meta content="THEMEN, Nachrichten,Internationale Nachrichten,News,Aktuelles,Live-Ticker,Kommentar,Analyse,Schlagzeilen" name="keywords"/>
+<meta content="THEMEN, Nachrichten,Internationale Nachrichten,News,Aktuelles,Live-Ticker,Kommentar,Analyse,Schlagzeilen" name="news_keywords"/>
+<meta content="Deutsche Welle: Der internationale Blick auf aktuelle Nachrichten von heute. Dazu Analysen, Kommentare und Einschätzungen unserer Reporter und Korrespondenten." name="description"/>
+<meta content="Deutsche Welle: Der internationale Blick auf aktuelle Nachrichten von heute. Dazu Analysen, Kommentare und Einschätzungen unserer Reporter und Korrespondenten." property="og:description"/>
+<meta content="https://www.dw.com/de/themen/s-9077" property="og:url"/>
+<meta content="DW.COM" property="og:site_name"/>
+<meta content="100000944106340" property="fb:admins"/>
+<meta content="100004095264842" property="fb:admins"/>
+<meta content="100004135624835" property="fb:admins"/>
+<link href="/css/dwde-ltr.min.css?v=6.56.0" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-print.css" media="print" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-fonts-latin.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/css/dw-epg-ltr.css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/dw-epg-ie-ltr.css" type="text/css" media="all"/><![endif]-->
+<style media="screen" type="text/css">
+div#navMain ul#navLevel1 a#n01 {
+color: #fff !important;
+}
+div#navMain ul#navLevel1 a#n01:hover {
+color: #000 !important;
+}
+div#navMain ul#navLevel1 li:hover a#n01 {
+color: #000 !important;
+}
+div#navMain ul#navLevel2 a#navAct2 {
+color: #fff !important;
+}
+</style>
+<script type="text/javascript">
+let DWStructureType = "NORMAL";
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics (Tracking-Code für Marketing-Zwecke) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-109618266-1"></script>
+<script type="text/javascript">
+function googleTracking() {
+var gtagTrackingId = 'UA-109618266-1';
+var gtagDisableStr = 'ga-disable-' + gtagTrackingId;
+if (!DWDE.dsgvo.isStoringCookiesOkay()) {
+window[gtagDisableStr] = true;
+gtagOptout();
+} else {
+window[gtagDisableStr] = false;
+gtagOptin();
+}
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', gtagTrackingId, {'anonymize_ip': true});
+function gtagOptout() {
+document.cookie = gtagDisableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = true;
+return "Google Tag Manager disabled";
+}
+function gtagOptin() {
+document.cookie = gtagDisableStr + '=false; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
+window[gtagDisableStr] = false;
+return "Google Tag Manager enabled";
+}
+}
+googleTracking();
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+document.addEventListener("DOMContentLoaded", function (event) {
+if (DWDE.dsgvo.isStoringCookiesOkay()) {
+facebookTracking();
+}
+});
+function facebookTracking() {
+!function (f, b, e, v, n, t, s) {
+if (f.fbq) return;
+n = f.fbq = function () {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '157204581336210');
+fbq('track', 'ViewContent');
+}
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=157204581336210&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TXHJH9T');
+</script>
+<!-- End Google Tag Manager -->
+<title>Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen | DW</title>
+<meta content="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen | DW" property="og:title"/>
+<!--[if lt IE 7 ]>
+<script type="text/javascript" src="/js/flyoutsf.js"></script><![endif]-->
+<script src="/js/dwde.min.js?v=6.56.0" type="text/javascript"></script>
+<!-- DW jwplayer skin -->
+<link href="/js/jwplayer8/skins/DW/dwskinfile.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/js/jwplayer8/skins/DW/desktop-additions.css" media="all" rel="stylesheet" type="text/css"/>
+<script>jwplayer.key = 'Y8nORY7CUY5RnlN/f8onh+AXI1ZWodkujMJAXBwpcAnDG5N4';</script>
+<script src="/js/datepicker/jquery.ui.datepicker-de.min.js" type="text/javascript"></script>
+<script async="" crossorigin="anonymous" src="//player.h-cdn.com/loader.js?customer=deutschewelle"></script>
+<script type="text/javascript">
+function getQueryVariable(variable) {
+var query = window.location.search.substring(1);
+var vars = query.split('&');
+for (var i = 0; i < vars.length; i++) {
+var pair = vars[i].split('=');
+if (decodeURIComponent(pair[0]) === variable) {
+return decodeURIComponent(pair[1]);
+}
+}
+return false;
+}
+function setRecaptchaLanguage() {
+var languageCode = "de";
+if (languageCode === 'ha') {
+return 'en';
+} else {
+var queryStringVal = getQueryVariable('zhongwen');
+if (queryStringVal === false) {
+return languageCode;
+} else if (queryStringVal === 'trad') {
+return 'zh-TW';
+} else if (queryStringVal === 'simp') {
+return 'zh';
+}
+}
+}
+var recaptchaScript = document.createElement('script');
+var recaptchaLink = 'https://www.google.com/recaptcha/api.js?render=explicit&hl=' + setRecaptchaLanguage();
+recaptchaScript.setAttribute('defer', true);
+recaptchaScript.setAttribute('async', true);
+recaptchaScript.setAttribute('src', recaptchaLink);
+$('head').append(recaptchaScript);
+</script>
+<script type="text/javascript">
+var disqus_shortname = 'dwtest-de';
+</script>
+</head><body id="html_body">
+<!-- Trackingcode Body-Area -->
+<script type="text/javascript">
+var dwInitialTrackingInfo = {
+visibleStructure: "",
+fullUrl: "http%3A%2F%2Fwww.dw.com%2Fde%2Fthemen%2Fs-9077",
+maca: "",
+articleChangeDateShort: "20200428",
+structureId: "9077",
+structureTypeId: "99",
+chap: "THEMEN",
+pageId: "9077",
+richMediaTracking: true,
+trackingProfileId: "1",
+subjects: "",
+firstCategoryId: "",
+secondCategoryId: "",
+departmentName: ""
+};
+var channelNameAppendix = "-";
+trackingInfo_leve2 = "1";
+trackingInfo_dkLanguage = "";
+trackingInfo_multi_Value = "";
+trackingInfo_profile = "NORMAL";
+trackingInfo_pageSingleEncoded = "THEMEN::THEMEN";
+trackingInfo_multi_Value = "&x1=99&x2=1&x3=9077&x4=9077&x5=THEMEN&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fde%2Fthemen%2Fs-9077&x8=&x9=20200428&x10=THEMEN&x13=1&x14=&x15=&x16=&x17=&x18=&x20=";
+if (window.xtparam != null) {
+window.xtparam += "&ac=" + "&an=" + trackingInfo_multi_Value;
+} else {
+window.xtparam = "&ac=" + "&an=" + trackingInfo_multi_Value;
+}
+</script>
+<noscript>
+<img alt="" height="1" src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=1&amp;p=THEMEN::THEMEN&amp;di=&amp;an=&amp;ac=&amp;x1=99&amp;x2=1&amp;x3=9077&amp;x4=9077&amp;x5=THEMEN&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fde%2Fthemen%2Fs-9077&amp;x8=&amp;x9=20200428&amp;x10=THEMEN&amp;x13=1&amp;x14=&amp;x15=null&amp;x16=null&amp;x17=&amp;x18=&amp;x20=" width="1"/>
+</noscript>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TXHJH9T" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) --><!--AT Internet Smart Tag Tracking-->
+<script src="https://commons.dw.com/tracking/smarttag.js" type="text/javascript"></script>
+<script type="text/javascript">
+var tag = new ATInternet.Tracker.Tag({
+secure: true,
+site: "510544",
+logSSL: "logs1242",
+cookieSecure: true
+});
+tag.page.set({
+name: "THEMEN::THEMEN",
+pageID: "9077",
+level2: 1
+});
+tag.customVars.set({
+site: {
+1: 99,
+2: 1,
+3: 9077,
+4: 9077,
+5: "[THEMEN]",
+6: "",
+7: "[http%3A%2F%2Fwww.dw.com%2Fde%2Fthemen%2Fs-9077]",
+8: "[]",
+9: 20200428,
+10: "[THEMEN]",
+11: "",
+12: "",
+13: 1,
+14: "",
+15: "",
+16: "",
+17: "",
+18: "",
+19: "",
+20: ""
+}
+});
+tag.dispatch();
+</script>
+<script src="https://commons.dw.com/tracking/smarttagJwPlayerPlugin.js" type="text/javascript"></script>
+<div class="cookie">
+<div class="cookie__wrap">
+<div class="cookie__item">
+<p class="cookie__text">Wir verwenden Cookies, um unser Angebot für Sie zu verbessern. Mehr Informationen dazu finden Sie in unserer Datenschutzerklärung.</p>
+</div>
+<div class="cookie__buttons">
+<a class="cookie__btn cookie__btn--more" href="/a-18265186">Mehr Infos</a>
+<a class="cookie__btn cookie__btn--ok" href="#">Okay</a>
+</div>
+</div>
+</div>
+<!-- Language selection and quickjump navigation: -->
+<ol id="quickjump" role="list">
+<li aria-labelledby="Inhalt" role="listitem"><a href="#bodyContent" id="Inhalt">Inhalt</a></li>
+<li aria-labelledby="Navigation" role="listitem"><a href="#navMain" id="Navigation">Navigation</a></li>
+<li aria-labelledby="asideLink" role="listitem"><a href="#aside" id="asideLink">Weitere Inhalte</a></li>
+<li aria-labelledby="metanavigationLink" role="listitem"><a href="#navMeta" id="metanavigationLink">Metanavigation</a></li>
+<li aria-labelledby="sucheLink" role="listitem"><a href="#search" id="sucheLink">Suche</a></li>
+<li aria-labelledby="languageLink" role="listitem"><a accesskey="6" href="#langSelect" id="languageLink" lang="de" xml:lang="de">Choose from 30 Languages</a></li>
+</ol>
+<!-- AUTO-LANGUAGE-SELECT-HINT -->
+<!--[if IE 7 ]>
+<div id="ie7PositionHelper"></div><![endif]-->
+<div id="topMetaLang" style="margin-top: -190px;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<!-- L a n g u a g e S e l e c t o r -->
+<div id="languageSection">
+<ul>
+<li><a data-lang="sq-AL" href="/sq/fokus/s-10250" title="FOKUS">
+Albanian <span class="native">Shqip</span></a>
+</li>
+<li><a data-lang="am-ET" href="/am/ይዘት/s-11646" title="ይዘት">
+Amharic <span class="native">አማርኛ</span></a>
+</li>
+<li><a data-lang="ar-AE" href="/ar/الرئيسية/s-9106" title="DW عربية | رؤية أخرى للأحداث في ألمانيا والعالم العربي">
+Arabic <span class="native">العربية</span></a>
+</li>
+<li><a data-lang="bn-BD" href="/bn/বিষয়/s-11929" title="বিষয়">
+Bengali <span class="native">বাংলা</span></a>
+</li>
+<li><a data-lang="bs-BA" href="/bs/teme/s-10037" title="TEME">
+Bosnian <span class="native">B/H/S</span></a>
+</li>
+<li><a data-lang="bg-BG" href="/bg/начало/s-10257" title="Начало">
+Bulgarian <span class="native">Български</span></a>
+</li>
+<li>
+<a data-lang="zh-CN" href="/zh/在线报导/s-9058?&amp;zhongwen=simp" title="在线报导">
+Chinese <span class="native">(Simplified) 简</span></a>
+</li>
+<li>
+<a data-lang="zh-CN-t" href="/zh/在线报导/s-9058?&amp;zhongwen=trad" title="在線報導">
+Chinese <span class="native">(Traditional) 繁</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="hr-HR" href="/hr/teme/s-9747" title="TEME">
+Croatian <span class="native">Hrvatski</span></a>
+</li>
+<li><a data-lang="fa-AF" href="/fa-af/دويچه-وله-دری/s-10259" title="دويچه وله دری">
+Dari <span class="native">دری </span></a>
+</li>
+<li><a data-lang="en-GB" href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">
+English <span class="native">English</span></a>
+</li>
+<li><a data-lang="fr-FR" href="/fr/actualités/s-10261" title="ACTUALITÉS">
+French <span class="native">Français</span></a>
+</li>
+<li><a class="ici" data-lang="de-DE" href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+German <span class="native">Deutsch</span></a>
+</li>
+<li><a data-lang="el-GR" href="/el/θεματα/s-10507" title="ΘΕΜΑΤΑ">
+Greek <span class="native">Ελληνικά</span></a>
+</li>
+<li><a data-lang="ha-NG" href="/ha/batutuwa/s-11603" title="BATUTUWA">
+Hausa <span class="native">Hausa</span></a>
+</li>
+<li><a data-lang="hi-IN" href="/hi/खबरें/s-11931" title="खबरें">
+Hindi <span class="native">हिन्दी</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="id-ID" href="/id/beranda/s-11546" title="BERANDA">
+Indonesian <span class="native">Indonesia</span></a>
+</li>
+<li><a data-lang="sw-TZ" href="/sw/idhaa-ya-kiswahili/s-11588" title="IDHAA YA KISWAHILI">
+Kiswahili <span class="native">Kiswahili</span></a>
+</li>
+<li><a data-lang="mk-MK" href="/mk/теми/s-10339" title="Теми">
+Macedonian <span class="native">Македонски</span></a>
+</li>
+<li><a data-lang="ps-AF" href="/ps/دويچه-ويله-پښتو/s-11722" title="دويچه ويله پښتو">
+Pashto <span class="native">پښتو</span></a>
+</li>
+<li><a data-lang="fa-IR" href="/fa-ir/دویچه-وله-فارسی/s-9993" title="دویچه وله فارسی">
+Persian <span class="native">فارسی</span></a>
+</li>
+<li><a data-lang="pl-PL" href="/pl/start/s-11394" title="Niemcy – najnowsze wiadomości z Niemiec, Europy i świata">
+Polish <span class="native">Polski</span></a>
+</li>
+<li><a data-lang="pt-002" href="/pt-002/notícias/s-13918" title="NOTÍCIAS">
+Portuguese <span class="native">Português para África</span></a>
+</li>
+<li><a data-lang="pt-BR" href="/pt-br/notícias/s-7111" title="DW Brasil | Notícias e análises do Brasil e do mundo">
+Portuguese <span class="native">Português do Brasil</span></a>
+</li>
+</ul>
+<ul>
+<li><a data-lang="ro-RO" href="/ro/focus/s-10575" title="FOCUS">
+Romanian <span class="native">Română</span></a>
+</li>
+<li><a data-lang="ru-RU" href="/ru/темы-дня/s-9119" title="Новости и аналитика о Германии, России, Европе, мире">
+Russian <span class="native">Русский</span></a>
+</li>
+<li><a data-lang="sr-RS" href="/sr/rubrike/s-10682" title="RUBRIKE">
+Serbian <span class="native">Српски/Srpski</span></a>
+</li>
+<li><a data-lang="es-ES" href="/es/actualidad/s-30684" title="ACTUALIDAD">
+Spanish <span class="native">Español</span></a>
+</li>
+<li><a data-lang="tr-TR" href="/tr/gündem/s-10201" title="GÜNDEM">
+Turkish <span class="native">Türkçe</span></a>
+</li>
+<li><a data-lang="uk-UA" href="/uk/головна/s-9874" title="Новини й аналітика про Німеччину, Україну, Європу та світ">
+Ukrainian <span class="native">Українська</span></a>
+</li>
+<li><a data-lang="ur-PK" href="/ur/عنوانات/s-11933" title="عنوانات">
+Urdu <span class="native">اردو</span></a>
+</li>
+</ul>
+</div><!-- / L a n g u a g e S e l e c t o r -->
+<div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- META-NAVI -->
+<div id="topMeta" style="margin-top: -30px; display:none;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<span class="langHint">
+<a href="">Wrong language? Change it here</a>
+</span>
+DW.COM hat Deutsch als Spracheinstellung für Sie gewählt. <div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- E X T R A W R A P B O D Y M O V E R -->
+<div id="bodyMover">
+<!-- META-NAVI -->
+<div id="navMeta">
+<div class="v2" id="langSelect">
+<a href="javascript:void(0);" id="langSelectTrigger" name="langSelectTrigger">DW.COM in 30 languages</a>
+</div>
+<div class="metaLink"><a href="/de/dw-akademie/über-uns/s-8101" title="DW AKADEMIE">DW Akademie</a>
+</div>
+<div class="metaLink"><a href="/de/unternehmen/profil/s-30626" title="UNTERNEHMEN">Unternehmen</a>
+</div>
+<div class="metaLink"><a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">DW.COM</a></div>
+</div>
+<!-- OUTER FRAME -->
+<div id="outerFrame">
+<!-- NAV CONTAINER -->
+<div id="navContainer">
+<!-- NAVI MAIN: main categories:-->
+<div id="navHead">
+<div class="dwnews" id="logo">
+<a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+Deutsche Welle
+</a>
+</div>
+<div id="logoprint">
+<img alt="Deutsche Welle" height="100" src="/cssi/dwlogo-print.gif" width="98"/>
+</div>
+<div id="search">
+<form action="/search/de" class="modular" id="navSearchForm" method="get" title="GlobalSearch">
+<input name="searchNavigationId" param="searchNavigationId" type="hidden" value="9077"/>
+<input name="languageCode" param="languageCode" type="hidden" value="de"/>
+<input name="origin" param="origin" type="hidden" value="gN"/>
+<input id="item" name="item" placeholder="THEMEN durchsuchen"/>
+<div id="searchButton"></div>
+</form>
+</div>
+</div><!-- subcategories: -->
+<div id="navMain">
+<ul id="navLevel1">
+<li>
+<a href="/de/themen/s-9077" id="n01" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">THEMEN</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a>
+<ul class="sitemap">
+<li><a href="/de/themen/deutschland-verstehen/s-12019" title="Deutschland verstehen">Deutschland verstehen</a>
+</li>
+<li><a href="/de/themen/deutschland-evangelisch-katholisch/s-101276" title="Deutschland evangelisch-katholisch">Deutschland evangelisch-katholisch</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/erste-schritte-in-deutschland/s-32443" title="Erste Schritte in Deutschland">Erste Schritte in Deutschland</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a>
+</li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a>
+<ul class="sitemap">
+<li><a href="/de/themen/europa/s-12322" title="Europa">Europa</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/nahost/s-12323" title="Nahost">Nahost</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/afrika/s-12324" title="Afrika">Afrika</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/amerika/s-12325" title="Amerika - Die aktuellsten Nachrichten und Informationen">Amerika</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/asien/s-12326" title="Asien">Asien</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a>
+<ul class="sitemap">
+<li><a href="/de/themen/w20/s-37923697" title="Wo+men">W20</a>
+</li>
+<li><a href="/de/themen/mein-2030/s-32428" title="Mein 2030">Mein 2030</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a>
+<ul class="sitemap">
+<li><a href="/de/themen/filme/s-1564" title="Filme">Filme</a>
+</li>
+<li><a href="/de/themen/bücher/s-1568" title="Bücher">Bücher</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/musik/s-12771" title="Musik">Musik</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/kunst/s-101381" title="Kunst">Kunst</a>
+</li>
+<li><a href="/de/themen/digitales-leben/s-30511" title="Digitales Leben">Digitales Leben</a>
+</li>
+<li><a href="/de/themen/lebensart/s-101382" title="Lebensart">Lebensart</a>
+</li>
+<li><a href="/de/themen/reise/s-1644" title="DW Reise">Reise</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/themen/bthvn2020/s-5269" title="BTHVN2020">BTHVN2020</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a>
+<ul class="sitemap">
+<li><a href="/de/themen/global-ideas/s-30494" title="Global Ideas">Global Ideas</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+<div class="flyoutGroup col1">
+<h4>Specials</h4>
+<ul class="sitemap">
+<li><a href="/de/themen/100-gute-bücher/s-43415822" title="100 gute Bücher - ein literarisches Jahrhundert-Panorama deutschsprachiger Literatur">100 Gute Bücher</a></li>
+<li><a href="/de/themen/50-küchen-eine-heimat/s-32912" title="50 Küchen, eine Heimat – 50 Restaurants, 50 Rezepte, 50 Länder">50 Küchen, eine Heimat</a></li>
+<li><a href="/de/themen/baking-bread/s-47577721" title="Baking Bread - Was uns Brot über die EU verrät">Baking Bread</a></li>
+<li><a href="/de/themen/deutschland-die-salafistische-gefahr/s-101256" title="Deutschland - die salafistische Gefahr">Deutschland - die salafistische Gefahr</a></li>
+<li><a href="/de/themen/erster-weltkrieg/s-101010" title="Der Erste Weltkrieg">Erster Weltkrieg</a></li>
+<li><a href="/de/themen/expedition-humboldt/s-46674226" title="Expedition Humboldt">Expedition Humboldt</a></li>
+<li><a href="/de/themen/fake-news-krise-der-fakten-krieg-der-meinungen/s-36840487" title="Fake News: Krise der Fakten - Krieg der Meinungen">Fake News: Krise der Fakten - Krieg der Meinungen</a></li>
+<li><a href="/de/themen/gutenberg-im-cyberstorm/s-101300" title="Gutenberg im Cyberstorm">Gutenberg im Cyberstorm</a></li>
+<li><a href="/de/themen/meet-the-germans/s-32643" title="Meet the Germans">Meet the Germans</a></li>
+<li><a href="/de/themen/merkels-versprechen/s-32903" title="Merkels Versprechen">Merkels Versprechen</a></li>
+<li><a href="/de/themen/mit-17-das-jahrhundert-der-jugend/s-101112" title="Mit 17... Das Jahrhundert der Jugend">Mit 17... Das Jahrhundert der Jugend</a></li>
+<li><a href="/de/themen/planet-berlin/s-47577671" title="Planet Berlin - der Weltreiseführer für Deutschlands lebendige Metropole">Planet Berlin</a></li>
+<li><a href="http://de.qantara.de/" title="Qantara.de">Qantara.de</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/de/media-center/s-100813" title="Das Media Center: Die Mediathek der Deutschen Welle">Media Center</a>
+<div class="flyout mini">
+<ul class="sitemap" role="menu">
+<li role="menuitem">
+<a href="/de/media-center/live-tv/s-100817" title="Deutsche Welle Live TV Stream: Nachrichten aus aller Welt">Live TV</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/alle-inhalte/s-100814" title="Alle multimedialen Inhalte der Deutschen Welle">Alle Inhalte</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/sendung-verpasst/s-100815" title="Sie haben eine Sendung der Deutschen Welle verpasst?">Sendung verpasst?</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/deutschkurse/s-100816" title="Online deutsch lernen mit Videos und Audios der DW">Deutschkurse</a>
+</li>
+<li role="menuitem">
+<a href="/de/media-center/podcasts/s-100976" title="Podcasts: Abonnieren Sie unsere Radio und TV Podcasts">Podcasts</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/de/tv/s-9093" title="TV">TV</a>
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/de/tv/programmübersicht/s-4765" title="TV-Programmplan und Empfang">Programmübersicht</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/tv/tv-sendungen/s-9094" title="TV Sendungen">TV Sendungen</a>
+</li>
+</ul>
+<div class="flyoutGroup">
+<h4 class="meta">TV Sendungen</h4>
+<ul class="sitemap">
+<li><a href="/de/tv/37-grad/s-10145" title="37 Grad">37 Grad</a></li>
+<li><a href="/de/tv/anne-will/s-12701" title="Anne Will">Anne Will</a></li>
+<li><a href="/de/tv/auf-den-punkt/s-50033855" title="Auf den Punkt">Auf den Punkt</a></li>
+<li><a href="/de/tv/auf-ein-wort/s-40362437" title="Auf ein Wort...">Auf ein Wort...</a></li>
+<li><a href="/de/tv/bares-für-rares/s-36399064" title="Bares für Rares">Bares für Rares</a></li>
+<li><a href="/de/tv/check-in/s-32692" title="Check-in - Das Reisemagazin">Check-in</a></li>
+<li><a href="/de/tv/der-tag/s-32615" title="Der Tag - Nachrichten und Hintergrund">Der Tag</a></li>
+<li><a href="/de/tv/die-anstalt/s-100973" title="Die Anstalt">Die Anstalt</a></li>
+<li><a href="/de/tv/dokfilm/s-3609" title="DokFilm">DokFilm</a></li>
+<li><a href="/de/tv/euromaxx/s-7553" title="Euromaxx- Leben und Kultur in Europa">Euromaxx</a></li>
+<li><a href="/de/tv/europe-in-concert/s-30429" title="Europe in Concert - Top-Acts Live">Europe in Concert</a></li>
+<li><a href="/de/tv/expedition-in-die-heimat/s-50558311" title="Expedition in die Heimat">Expedition in die Heimat</a></li>
+<li><a href="/de/tv/fit-und-gesund/s-11936" title="Fit und gesund">Fit und gesund</a></li>
+<li><a href="/de/tv/fokus-europa/s-101183" title="Fokus Europa - Länder, Menschen, Schicksale">Fokus Europa</a></li>
+<li><a href="/de/tv/frag-den-lesch/s-50033835" title="Frag den Lesch">Frag den Lesch</a></li>
+<li><a href="/de/tv/frautv/s-30312" title="FrauTV">FrauTV</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/de/tv/glaubenssachen/s-3668" title="Glaubenssachen - Die Kirchensendung">Glaubenssachen</a></li>
+<li><a href="/de/tv/global-3000/s-11486" title="Global 3000 - Das Globalisierungsmagazin">Global 3000</a></li>
+<li><a href="/de/tv/gottesdienst/s-101259" title="Gottesdienst">Gottesdienst</a></li>
+<li><a href="/de/tv/hart-aber-fair/s-12675" title="Hart aber fair">Hart aber fair</a></li>
+<li><a href="/de/tv/kick-off/s-12837" title="Kick off! - Das Bundesliga-Magazin der DW">Kick off!</a></li>
+<li><a href="/de/tv/kochen-mit-martina-moritz/s-101487" title="Kochen mit Martina &amp; Moritz">Kochen mit Martina &amp; Moritz</a></li>
+<li><a href="/de/tv/kultur21/s-7884" title="Kultur.21 - Das Kulturmagazin">Kultur.21</a></li>
+<li><a href="/de/tv/kulturzeit/s-36398595" title="Kulturzeit">Kulturzeit</a></li>
+<li><a href="/de/tv/ladies-night/s-36400088" title="Ladies Night">Ladies Night</a></li>
+<li><a href="/de/tv/lesenswert/s-36399591" title="Lesenswert">Lesenswert</a></li>
+<li><a href="/de/tv/made-in-germany/s-3054" title="Made in Germany">Made in Germany</a></li>
+<li><a href="/de/tv/markus-lanz/s-12709" title="Markus Lanz">Markus Lanz</a></li>
+<li><a href="/de/tv/maybrit-illner/s-10146" title="Maybrit Illner">Maybrit Illner</a></li>
+<li><a href="/de/tv/nahaufnahme/s-100280" title="Nahaufnahme - Die aktuelle Reportage">Nahaufnahme</a></li>
+<li><a href="/de/tv/ndr-comedy-contest/s-32737" title="NDR Comedy Contest">NDR Comedy Contest</a></li>
+<li><a href="/de/tv/nuhr-im-ersten/s-100377" title="Nuhr im Ersten">Nuhr im Ersten</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/de/tv/privatkonzert/s-40463631" title="Privatkonzert">Privatkonzert</a></li>
+<li><a href="/de/tv/projekt-zukunft/s-3210" title="Projekt Zukunft - Das Wissenschaftsmagazin">Projekt Zukunft</a></li>
+<li><a href="/de/tv/pufpaffs-happy-hour/s-32800" title="Pufpaffs Happy Hour">Pufpaffs Happy Hour</a></li>
+<li><a href="/de/tv/pur/s-36399031" title="Pur+">Pur+</a></li>
+<li><a href="/de/tv/quarks/s-36400242" title="Quarks">Quarks</a></li>
+<li><a href="/de/tv/reporter/s-31610" title="Reporter - Vor Ort">Reporter</a></li>
+<li><a href="/de/tv/rev/s-51434653" title="REV">REV</a></li>
+<li><a href="/de/tv/shift/s-30411" title="Shift - Leben in der digitalen Welt">Shift</a></li>
+<li><a href="/de/tv/spätschicht/s-100375" title="Spätschicht">Spätschicht</a></li>
+<li><a href="/de/tv/verrückt-nach-meer/s-36400533" title="Verrückt nach Meer">Verrückt nach Meer</a></li>
+<li><a href="/de/tv/wissen-macht-ah/s-10149" title="Wissen macht Ah!">Wissen macht Ah!</a></li>
+<li><a href="/de/tv/world-stories/s-101473" title="World Stories - Reportagen der Woche">World Stories</a></li>
+<li><a href="/de/tv/zdf-reportage/s-12714" title="ZDF Reportage">ZDF Reportage</a></li>
+<li><a href="/de/tv/zu-tisch/s-36399572" title="Zu Tisch...">Zu Tisch...</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<a href="/de/deutsch-lernen/s-2055" title="DEUTSCH LERNEN">DEUTSCH LERNEN</a>
+<div class="flyout">
+<div class="flyoutGroup">
+<div class="flyoutGroup">
+<h4>Deutschkurse</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutschkurse/s-2068" title="Deutschkurse">Deutschkurse</a></li>
+<li><a href="/de/deutsch-lernen/schnellstart/s-31674" title="Schnellstart">Schnellstart</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-mobil/s-40884569" title="Deutsch mobil">Deutsch mobil</a>
+</li>
+<li><a href="/de/deutsch-lernen/die-bienenretter/s-36745714" title="Die Bienenretter">Die Bienenretter</a>
+</li>
+<li><a href="/de/deutsch-lernen/harry/s-13219" title="Harry">Harry</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-interaktiv/s-9571" title="Deutsch Interaktiv">Deutsch Interaktiv</a>
+</li>
+<li><a href="/de/deutsch-lernen/mission-europe/s-9731" title="Mission Europe">Mission Europe</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/radio-d/s-9603" title="Radio D">Radio D</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-warum-nicht/s-2163" title="Deutsch - warum nicht?">Deutsch - warum nicht?</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/audiotrainer/s-3657" title="Audiotrainer">Audiotrainer</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschtrainer/s-32888" title="Deutschtrainer">Deutschtrainer</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch XXL</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-aktuell/s-2146" title="Deutsch Aktuell">Deutsch Aktuell</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/video-thema/s-12165" title="Video-Thema">Video-Thema</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/top-thema/s-8031" title="Top-Thema">Top-Thema</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/nachrichten/s-8030" title="Nachrichten">Nachrichten</a>
+</li>
+<li><a href="/de/deutsch-lernen/glossar/s-9151" title="Glossar">Glossar</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsch-im-fokus/s-9213" title="Deutsch im Fokus">Deutsch im Fokus</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/alltagsdeutsch/s-9214" title="Alltagsdeutsch">Alltagsdeutsch</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/sprachbar/s-9011" title="Sprachbar">Sprachbar</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/das-sagt-man-so/s-32376" title="Das sagt man so!">Das sagt man so!</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/wort-der-woche/s-9031" title="Wort der Woche">Wort der Woche</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutsche-sprache-in-bildern/s-101453" title="Deutsche Sprache – in Bildern">Deutsche Sprache in Bildern</a>
+</li>
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/telenovela/s-13121" title="Telenovela">Telenovela</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/bandtagebuch/s-13891" title="Bandtagebuch">Bandtagebuch</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/landeskunde/s-12377" title="Landeskunde">Landeskunde</a>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/ticket-nach-berlin/s-32294" title="Ticket nach Berlin">Ticket nach Berlin</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/das-deutschlandlabor/s-32379" title="Das Deutschlandlabor">Das Deutschlandlabor</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/dialektatlas/s-8150" title="Dialektatlas">Dialektatlas</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/stadtbilder/s-31499" title="Stadtbilder">Stadtbilder</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschland-in-bildern/s-101454" title="Deutschland erleben – in Bildern">Deutschland in Bildern</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Community D</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/de/deutsch-lernen/das-porträt/s-30546" title="Das Porträt">Das Porträt</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/podcasts-newsletter/s-11696" title="Podcasts &amp; Newsletter">Podcasts &amp; Newsletter</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/service/s-9032" title="Service">Service</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch unterrichten</h4>
+<ul class="sitemap">
+<li><a href="/de/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+<li><a href="/de/deutsch-lernen/dw-im-unterricht/s-14199" title="DW im Unterricht">DW im Unterricht</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/unterrichtsreihen/s-9729" title="Unterrichtsreihen">Unterrichtsreihen</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/de/deutsch-lernen/deutschlehrer-info/s-13503" title="Deutschlehrer-Info">Deutschlehrer-Info</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<ul id="navLevel2">
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a></li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a></li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a></li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a></li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a></li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a></li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a></li>
+</ul>
+</div>
+<!-- breadcrumbs navigation: -->
+<div id="navPath">
+<a href="/de/themen/s-9077" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">
+THEMEN
+</a>
+</div>
+</div>
+<div id="innerFrame">
+<div id="bodyContent">
+<div class="col4a">
+<!-- Carousel Teaser -->
+<div class="col4 carouselTeaser">
+<div class="group">
+<div class="imgTeaserXL cinemaXL">
+<!-- CarouselTeaserMainItem -->
+<div class="teaserImg">
+<a href="/de/corona-ticker-vom-28-april-surfen-wieder-erlaubt/a-53265256" rel="nofollow">
+<img alt="Australien Sydney | Bondi Beach (picture-alliance/dpa/J. Carrett)" itemprop="image" src="/image/53268732_354.jpg" title="Australien Sydney | Bondi Beach (picture-alliance/dpa/J. Carrett)"/> </a>
+</div>
+<div class="teaserContentWrap" data-id="52615535_53265256">
+<a href="/de/corona-ticker-vom-28-april-surfen-wieder-erlaubt/a-53265256" rel="nofollow">
+<h4>COVID-19
+</h4>
+<h2>
+Corona-Ticker: Surfen wieder erlaubt
+</h2>
+<p>Am Bondi Beach in Australien darf wieder gesurft werden. Viele Länder auf der ganzen Welt lockern ihre Maßnahmen. In Deutschland sinkt derweil die Reproduktionsrate des Coronavirus wieder. Mehr im Live-Blog. 
+<span class="icon intern">Zum Artikel</span>
+ 
+</p>
+</a>
+</div>
+<!-- CarouselTeaserMainItem_End -->
+</div><!-- / L-Teaser -->
+</div><!-- / group -->
+</div>
+<!-- Carousel Teaser End -->
+</div>
+<!--[if lt IE 8 ]>
+<div class="col4"><![endif]-->
+<div class="col2 left">
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">Coronavirus</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/tourismus-in-der-eu-nach-corona-mit-vielen-fragezeichen/a-53269118">
+<h2 class="linkable">
+EU: Adieu Sommerurlaub?
+</h2>
+<div class="teaserImg">
+<img alt="Italien Die Adriaküste bei Rimini (Imago Images/localpic)" itemprop="image" src="/image/53149172_301.jpg" title="Italien Die Adriaküste bei Rimini (Imago Images/localpic)"/> </div>
+<p>Wenn es Urlaub nach der Pandemie gibt, findet der wohl eher in der eigenen Region statt. Die EU-Tourismusminister haben keinen Zeitplan für eine Wiederbelebung des Reisens. Bernd Riegert aus Brüssel.   </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/entlassungen-trotz-kurzarbeit/a-53269059">
+<h2 class="linkable">
+Entlassungen trotz Kurzarbeit
+</h2>
+<div class="teaserImg">
+<img alt="Symbolbild: US-Arbeitsmarkt - Arbeiter (Getty Images/S. Platt)" itemprop="image" src="/image/52850002_301.jpg" title="Symbolbild: US-Arbeitsmarkt - Arbeiter (Getty Images/S. Platt)"/> </div>
+<p>Mit Kurzarbeit will die Politik die Arbeitslosenquote im Zaum halten. Nun wird sie wohl doch steigen. Daher sind neue Maßnahmen nötig, um den Arbeitsmarkt zu stabilisieren.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/coronavirus-erdogan-verteidigt-homophobe-theorie/a-53268749">
+<div class="teaserImg">
+<img alt="Türkei Tayyip Erdogan und Ali Erbas (picture-alliance/AA/E. Top )" itemprop="image" src="/image/50518585_302.jpg" title="Türkei Tayyip Erdogan und Ali Erbas (picture-alliance/AA/E. Top )"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Erdogan verteidigt homophobe Theorie </h2>
+<p>Homosexualität sei für den Corona-Ausbruch mitverantwortlich - eine Freitagspredigt des Diyanet-Präsidenten Erbas schockt Zivilrechtler. Der türkische Präsident verteidigt die Aussage: Sie sei "korrekt".   </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/österreich-versucht-den-weg-in-die-normalität/a-53269608">
+<h2 class="linkable">
+Österreich versucht den Weg in die Normalität
+</h2>
+<div class="teaserImg">
+<img alt="Österreich Coronavirus Hallstatt Tourismus (Reuters/L. Foeger)" itemprop="image" src="/image/53269590_301.jpg" title="Österreich Coronavirus Hallstatt Tourismus (Reuters/L. Foeger)"/> </div>
+<p>Angesichts der günstigen Entwicklungen in der Corona-Krise hebt Österreich nach fast sieben Wochen die Ausgangsbeschränkungen auf. Neu ist, dass ab Ende Mai dann auch sämtliche Hotels wieder aufmachen dürfen.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">Kommentar</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Sommermärchen</h4>
+<div class="news">
+<a href="/de/kommentar-die-sommermärchen-wahrheit-kommt-wohl-nie-ans-licht/a-53261903">
+<h2 class="linkable">
+Die Wahrheit kommt wohl nie ans Licht
+</h2>
+<div class="teaserImg">
+<img alt="Fußball-WM 2006 - Organisationskomitee (picture-alliance/dpa/DB Kunz)" itemprop="image" src="/image/18787389_301.jpg" title="Fußball-WM 2006 - Organisationskomitee (picture-alliance/dpa/DB Kunz)"/> </div>
+<p>In der Schweiz ist der Prozess gegen die vier deutschen Fußball-Funktionäre im Rahmen der Vergabe der WM 2006 wegen Verjährung beendet worden. So werden wir die Wahrheit wohl nie erfahren, meint Tobias Oelmaier.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">Hintergrund &amp; Analyse</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/exklusiv-interview-mit-prags-ob-zdeněk-hřib-ich-stehe-zur-demokratie-auch-wenn-ich-mein-leben-riskiere/a-53268686">
+<div class="teaserImg">
+<img alt="Zdenek Hrib Oberbürgermeister von Prag im Interview mit Zhanna Nemtsova (DW)" itemprop="image" src="/image/48805051_302.jpg" title="Zdenek Hrib Oberbürgermeister von Prag im Interview mit Zhanna Nemtsova (DW)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+"Auch wenn ich mein Leben riskiere!"
+</h2>
+<p>Prags OB Hřib steht wegen mutmaßlicher Morddrohungen zusammen mit zwei Kollegen unter Polizeischutz. Im DW-Interview spricht er über die Drohungen gegen seine Person, seine Angst und seinen Kampf für demokratische Werte.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/russische-drohungen-gegen-prager-bürgermeister-der-pirátor-unter-polizeischutz/a-53268670">
+<h2 class="linkable">
+Drohungen gegen Prager Bürgermeister
+</h2>
+<div class="teaserImg">
+<img alt="Prag Oberbürgermeister Zdenek Hrib (DW/T. Gosling)" itemprop="image" src="/image/51778021_301.jpg" title="Prag Oberbürgermeister Zdenek Hrib (DW/T. Gosling)"/> </div>
+<p>Der Prager OB und zwei seiner Kollegen stehen wegen mutmaßlicher Mordpläne des russischen Geheimdienstes unter Polizeischutz. Neue Vorwürfe über Einmischungsversuche Russlands und Chinas in die tschechische Politik.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Sub Header Teaser -->
+<div class="subHeader subHeaderTeaser">Weitere Nachrichten</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/polen-donald-tusk-will-präsidentschaftswahlen-boykottieren/a-53271061">
+<div class="teaserImg">
+<img alt="Donald Tusk (picture-alliance/dpa/Ukrinform)" itemprop="image" src="/image/51354965_302.jpg" title="Donald Tusk (picture-alliance/dpa/Ukrinform)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Tusk will Präsidentschaftswahlen boykottieren
+</h2>
+<p>EVP-Chef und Ex-EU-Ratspräsident Donald Tusk hält die für den 10.Mai angesetzten Präsidentschaftswahlen in Polen für verfassungswidrig. Er verweist auch auf das hohe Ansteckungsrisiko in der Pandemie-Zeit.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4> Nordkorea</h4>
+<div class="news">
+<a href="/de/rätselraten-über-kim-jong-uns-zustand-reißt-nicht-ab/a-53267207">
+<h2 class="linkable">
+Rätselraten über Kims Zustand reißt nicht ab
+<span class="date">vor 6 Std.</span>
+</h2>
+<div class="teaserImg">
+<img alt="Frönt sicher nicht einem gesunden Lebensstil: Nordkoreas starker Mann Kim Jong Un (Foto: picture-alliance/AP Photo/Korean Central News Agency/Korea News Service)" itemprop="image" src="/image/51842112_301.jpg" title="Frönt sicher nicht einem gesunden Lebensstil: Nordkoreas starker Mann Kim Jong Un (Foto: picture-alliance/AP Photo/Korean Central News Agency/Korea News Service)"/> </div>
+<p>Der Machthaber in Pjöngjang ist seit Mitte April nicht mehr öffentlich aufgetreten - bei einer Diktatur immer Stoff für wilde Spekulationen. Der US-Präsident versucht gegenzusteuern - aber eben in Trump'scher Manier.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/haftar-erkennt-un-abkommen-zu-libyen-nicht-mehr-an/a-53268225">
+<h2 class="linkable">
+Haftar verwirft UN-Abkommen zu Libyen
+<span class="date">vor 4 Std.</span>
+</h2>
+<div class="teaserImg">
+<img alt="Der libysche Bürgerkriegsgeneral Chalifa Haftar bei seiner Fernsehansprache (Foto: Reuters TV)" itemprop="image" src="/image/53268644_301.jpg" title="Der libysche Bürgerkriegsgeneral Chalifa Haftar bei seiner Fernsehansprache (Foto: Reuters TV)"/> </div>
+<p>Der von Russland unterstützte libysche General fühlt sich so stark, dass er internationalen Vermittlungsbemühungen die kalte Schulter zeigt. Auch die Beschlüsse der Berliner Konferenz sind für ihn nur noch Makulatur.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/rekordzahl-von-flüchtlingen-im-eigenen-land/a-53265874">
+<h2 class="linkable">
+Rekordzahl von Flüchtlingen im eigenen Land
+<span class="date">vor 7 Std.</span>
+</h2>
+<div class="teaserImg">
+<img alt="Unruhen in Mali 2019 | Flüchtlingscamp (Foto: Getty Images/AFP/M. Cattani)" itemprop="image" src="/image/53265973_301.jpg" title="Unruhen in Mali 2019 | Flüchtlingscamp (Foto: Getty Images/AFP/M. Cattani)"/> </div>
+<p>Nie zuvor gab es so viele Binnenflüchtlinge wie 2019: Mehr als 50 Millionen Menschen flohen, ohne Grenzen zu überqueren. Sie wollten Krieg und Gewalt entrinnen, aber auch Naturkatastrophen entkommen.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Deutschland</h4>
+<div class="news">
+<a href="/de/klage-gegen-löschung-von-hassreden-gescheitert/a-53270848">
+<h2 class="linkable">
+Klage gegen Löschung von Hassreden gescheitert
+<span class="date">vor 2 Std.</span>
+</h2>
+<div class="teaserImg">
+<img alt="Facebook-App auf Smartphone (Imago/Zumapress/J. Arriens)" itemprop="image" src="/image/42232131_301.jpg" title="Facebook-App auf Smartphone (Imago/Zumapress/J. Arriens)"/> </div>
+<p>Soziale Netzwerke dürfen Hassrede-Beiträge löschen und die Profile der betreffenden Nutzer vorübergehend sperren. Das hat das Landgericht Koblenz in einem Urteil bestätigt. Ein User hatte geklagt.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<div class="news">
+<a href="/de/rohbau-der-neuen-autobahnbrücke-in-genua-fertig/a-53270413">
+<h2 class="linkable">
+Genua: Rohbau der neuen Autobahnbrücke fertig
+<span class="date">vor 2 Std.</span>
+</h2>
+<div class="teaserImg">
+<img alt="Erinnerungsfoto mit dem italienischen Ministerpräsidenten Giuseppe Conte (2. von links) (Imago Images/Independent Photo Agency Int./M. Passaro)" itemprop="image" src="/image/53270573_301.jpg" title="Erinnerungsfoto mit dem italienischen Ministerpräsidenten Giuseppe Conte (2. von links) (Imago Images/Independent Photo Agency Int./M. Passaro)"/> </div>
+<p>Die stolzen Worte von Italiens Ministerpräsident Conte sind berechtigt: Noch keine zwei Jahre nach dem spektakulären Einsturz der Morandi-Bücke steht das Nachfolge-Bauwerk von Stararchitekt Piano.   </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+<!-- Base-Teaser -->
+<div class="col2 basicTeaser">
+<div class="group">
+<h4>Pläne für das Saisonende</h4>
+<div class="news">
+<a href="/de/premier-league-arbeitet-am-wiedereinstieg/a-53264632">
+<h2 class="linkable">
+Premier League arbeitet am Wiedereinstieg
+<span class="date">vor 9 Std.</span>
+</h2>
+<div class="teaserImg">
+<img alt="Fußball FC Liverpool Trent Alexander Arnold Einwurf (Reuters/D. Martinez)" itemprop="image" src="/image/52540196_301.jpg" title="Fußball FC Liverpool Trent Alexander Arnold Einwurf (Reuters/D. Martinez)"/> </div>
+<p>Die englische Premier League sucht nach Möglichkeiten, wieder in den Ligabetrieb zurückzukehren. Geisterspiele auf neutralen Plätzen oder mit einer begrenzten Stadien-Zahl könnten Lösungen sein.
+  </p>
+</a>
+</div>
+</div>
+</div>
+<!-- End Base-Teaser -->
+</div>
+<div class="col2">
+<!-- ContentList Teaser -->
+<div class="col2 contentListTeaser">
+<h4 class="meta">Meistgelesen</h4>
+<div class="group">
+<div class="linkList plain">
+<a href="/de/corona-ticker-vom-28-april-surfen-wieder-erlaubt/a-53265256">
+<h2>
+Corona-Ticker vom 28. April: Surfen wieder erlaubt
+</h2>
+</a>
+</div>
+<div class="linkList plain">
+<a href="/de/bayerischer-verwaltungsgerichtshof-verkaufsverbot-verfassungswidrig/a-53262419">
+<h2>
+Bayerischer Verwaltungsgerichtshof: Verkaufsverbot verfassungswidrig
+</h2>
+</a>
+</div>
+<div class="linkList plain">
+<a href="/de/corona-krise-und-fertig-ist-die-maske/a-53263504">
+<h2>
+Corona-Krise: Und fertig ist die Maske </h2>
+</a>
+</div>
+<div class="linkList plain">
+<a href="/de/rätselraten-über-kim-jong-uns-zustand-reißt-nicht-ab/a-53267207">
+<h2>
+Rätselraten über Kim Jong Uns Zustand reißt nicht ab </h2>
+</a>
+</div>
+<div class="linkList plain">
+<a href="/de/kalifornien-ermahnt-seine-bürger-im-kampf-gegen-corona/a-53265257">
+<h2>
+Kalifornien ermahnt seine Bürger im Kampf gegen Corona
+</h2>
+</a>
+</div>
+</div>
+</div>
+<!-- END ContentList Teaser -->
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below nohover">
+<a href="/de/covid-19-spezial-vom-28042020/av-53268104">
+<div class="teaserImg">
+<img alt="DW Covid-19 Spezial Sendungslogo" itemprop="image" src="/image/53074208_302.png" title="DW Covid-19 Spezial Sendungslogo"/> </div>
+<div class="teaserContentWrap">
+<h2>
+COVID-19 Spezial
+</h2>
+<p>Südkorea setzte früh auf umfassende Tests +++ Indien kämpft inmitten von Armut und religiösen Konflikten +++ Was hält Epidemiologe Dirk Brockmann von Contact-Tracing-Apps? +++ Kreative Ideen, um den Abstand einzuhalten<span class="icon tv"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below nohover">
+<a href="/de/ramadan-in-zeiten-des-coronavirus/g-53267948">
+<div class="teaserImg">
+<img alt="Ramadan Moschee Bangladesch Dhaka (Reuters/M. P. Hossain)" itemprop="image" src="/image/53255862_302.jpg" title="Ramadan Moschee Bangladesch Dhaka (Reuters/M. P. Hossain)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Ramadan in Zeiten des Coronavirus
+</h2>
+<p>Ob im Christentum oder Islam: In schweren Zeiten hilft der Glaube. Was aber, wenn Moscheen schließen, wenn Gotteshäuser keine Anlaufstelle mehr bieten? Im Fastenmonat Ramadan wissen sich Muslime weltweit zu helfen.<span class="icon pics"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/corona-krise-hat-das-kino-noch-eine-zukunft/a-53266144">
+<div class="teaserImg">
+<img alt="Deutschland Kurzfilmtage Oberhausen Lars Henrik Gass (picture-alliance/dpa/R. Weihrauch)" itemprop="image" src="/image/53270473_302.jpg" title="Deutschland Kurzfilmtage Oberhausen Lars Henrik Gass (picture-alliance/dpa/R. Weihrauch)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Corona-Krise: Hat das Kino noch eine Zukunft?
+</h2>
+<p>Die Kinos sind dicht, produziert wird auch nicht mehr. Was bedeutet der Corona-Shutdown für die Filmbranche? "Die Krise wird eine Menge Verlierer haben", vermutet Festivalchef und Kino-Vordenker Lars Henrik Gass.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below nohover">
+<a href="/de/corona-und-benzinmangel-verschärfen-krise-in-venezuela/av-53264325">
+<div class="teaserImg">
+<img alt="Venezuela Tankstelle in Caracas (picture-alliance/dpa/D. Fernandez)" itemprop="image" src="/image/18983056_302.jpg" title="Venezuela Tankstelle in Caracas (picture-alliance/dpa/D. Fernandez)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Corona und Benzinmangel in Venezuela
+</h2>
+<p>Venezuela verfügt über die wohl größten Erdölreserven weltweit. Doch Benzin ist im Land schon seit Jahren Mangelware. Diese Situation erschwert das Leben jener Menschen, die trotz der massiven Corona-Beschränkungen auf ihre Fahrzeuge angewiesen sind.<span class="icon tv"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below nohover">
+<a href="/de/bild-des-tages-el-salvador-geht-hart-gegen-häftlinge-vor/g-45442037">
+<div class="teaserImg">
+<img alt="BdTD El Salvador Häftlinge Isolierung (picture-alliance/dpa/Especial)" itemprop="image" src="/image/53265433_302.jpg" title="BdTD El Salvador Häftlinge Isolierung (picture-alliance/dpa/Especial)"/> </div>
+<div class="teaserContentWrap">
+<h4>Bild des Tages</h4>
+<h2>
+El Salvador geht hart gegen Häftlinge vor
+</h2>
+<p>Fotos von eng zusammengepferchten Häftlingen in El Salvador haben bei Menschenrechtlern für Entsetzen gesorgt. Verbreitet hatte sie der Präsident des mittelamerikanischen Landes.<span class="icon pics"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below nohover">
+<a href="/de/wie-künstler-und-kreative-mit-corona-masken-arbeiten/g-53262422">
+<div class="teaserImg">
+<img alt=" Coronavirus Graffiti in London (picture-alliance/Photoshot/H. Yan)" itemprop="image" src="/image/53257561_302.jpg" title=" Coronavirus Graffiti in London (picture-alliance/Photoshot/H. Yan)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Wie Kreative mit Corona-Masken arbeiten
+</h2>
+<p>Der Anblick von medizinischen Corona-Masken gehört inzwischen zum Straßenbild - auch in Europa. Einfallsreiche Designer und Kunstschaffende bereichern die Alltagswelt gerade mit anderen Modellen. Hier ein paar Beispiele.<span class="icon pics"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below">
+<a href="/de/corona-krise-und-fertig-ist-die-maske/a-53263504">
+<div class="teaserImg">
+<img alt="Peru Coronavirus Eine selbstgemachte Gesichtsmaske (Reuters/S. Castaneda)" itemprop="image" src="/image/53244438_302.jpg" title="Peru Coronavirus Eine selbstgemachte Gesichtsmaske (Reuters/S. Castaneda)"/> </div>
+<div class="teaserContentWrap">
+<h2>
+Corona-Krise: Und fertig ist die Maske </h2>
+<p>Bananenblätter am Amazonas, Backpapier in Italien - es gibt viele Möglichkeiten, sich eine Mund- und Nasenmaske selbst anzufertigen. Ob die dann etwas helfen, das ist eine ganz andere Frage.
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Basic-Teaser imageOriented -->
+<div class="col2 basicTeaser">
+<div class="imgTeaserM white below nohover">
+<a href="/de/coronavirus-welche-maske-bietet-welchen-schutz/av-53264290">
+<div class="teaserImg">
+<img border="0" height="259" src="
+https://tvdownloaddw-a.akamaihd.net/stills/images/jd/jd20200427_comask19a_image_1024x576_3.jpg
+" width="460"/>
+</div>
+<div class="teaserContentWrap">
+<h2>
+Welche Maske bietet welchen Schutz?
+</h2>
+<p>FFP-Masken, OP-Masken oder Stoffmasken? Welcher Mund-Nasen-Schutz ist am besten geeignet, um das Risiko einer Ansteckung mit dem Coronavirus möglichst gering zu halten? Die Deutsche Welle fasst die Unterschiede zusammen.<span class="icon tv"></span>
+  </p>
+</div>
+</a>
+</div><!-- / M-Teaser below -->
+</div>
+<!-- Event-Livestream-Teaser Start -->
+<div class="eventLivestreamTeaser">
+<div class="col2">
+<div class="imgTeaserM video">
+<div class="mediaItem" data-channel-id="5">
+<input name="player_type" type="hidden" value="dwlivestream"/>
+<input name="file_name" type="hidden" value="https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8"/>
+<input name="media_title" type="hidden" value="Kick off!
+- Beirut Parc - Kinder zwischen Flucht und Fußball, Teil 2"/>
+<input name="channel_name" type="hidden" value="DW Deutsch"/>
+<input name="preview_image" type="hidden" value="/image/39956868_302.png"/>
+<input name="isLiveVideo" type="hidden" value="false"/>
+<div alt="DW Kick off (Sendungslogo deutsch/englisch)" class="teaserImg" title="DW Kick off (Sendungslogo deutsch/englisch)">
+<div class="videoContainer" id="videoContainer-5" rel="dynamic videoData for javascript"></div>
+<div class="playButtonArea">
+<div class="customPlayBtn">
+<div class="playBtnImgBox"></div>
+<span class="playBtnText">Livestream ansehen</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+DW_PLAYER.shareLocalization = "Teilen";
+DW_PLAYER.localization = {
+rewind: "10 Sek. zurückspulen",
+settings: "Einstellungen",
+hd: "Qualität",
+fullscreen: "Vollbild",
+cc: "Untertitel",
+nextUp: "Nächstes Video",
+playlist: "Playlist",
+pause: "Pause",
+play: "Abspielen",
+player: "Videoplayer",
+prev: "Vorherige Videos",
+next: "Nächste Videos",
+close: "Schließen",
+replay: "Wiederholen",
+volume: "Lautstärke"
+};
+</script>
+<div class="teaserContentWrap information">
+<h4> DW Deutsch
+Live</h4>
+<h2>Kick off!
+- Beirut Parc - Kinder zwischen Flucht und Fußball, Teil 2</h2>
+<p class="next">Anschließend um 17:30 UTC: Kulturzeit</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Event-Livestream-Teaser End -->
+<div class="col2">
+<!-- Picture Teaser -->
+<div class="col1 pictureTeaser">
+<div class="group">
+<div class="imgTeaserS bottom bluedw" id="pictureteaser_37557227">
+<div class="teaserImg">
+<a href="https://www.facebook.com/dw.german/" rel="nofollow noopener" target="_blank">
+<img alt="Facebook Offizielles Logo" itemprop="image" src="/image/41525323_301.jpg" title="Facebook Offizielles Logo"/> </a>
+</div>
+<div class="teaserContentWrap">
+<a href="https://www.facebook.com/dw.german/" rel="nofollow noopener" target="_blank">
+<h2>Folgen Sie uns auf Facebook
+<span class="date">17.08.2012</span>
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Picture Teaser -->
+<div class="col1 pictureTeaser">
+<div class="group">
+<div class="imgTeaserS bottom bluedw" id="pictureteaser_37557229">
+<div class="teaserImg">
+<a href="https://twitter.com/dw_deutsch" rel="nofollow noopener" target="_blank">
+<img alt="Twitter Offizielles Logo" itemprop="image" src="/image/41525319_301.jpg" title="Twitter Offizielles Logo"/> </a>
+</div>
+<div class="teaserContentWrap">
+<a href="https://twitter.com/dw_deutsch" rel="nofollow noopener" target="_blank">
+<h2>Folgen Sie uns auf Twitter
+<span class="date">15.02.2017</span>
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17878299">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/deutschland/s-12321">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Deutschland</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/die-masken-kommen/a-53256065">
+<div class="teaserImg articl">
+<img alt="Deutschland Leipzig Coronavirus - Bundeswehr bringt Schutzmasken" itemprop="image" src="/image/53258756_301.jpg" title="Deutschland Leipzig Coronavirus - Bundeswehr bringt Schutzmasken"/> </div>
+<h2 class="">
+Die Masken kommen
+<span class="icon tv"></span> </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/triage-wer-wird-behandelt-wer-nicht/a-53234686">
+<div class="teaserImg articl">
+<img alt="Coronavirus | Deutschland | Krankenhaus Havelhöhe Berlin" itemprop="image" src="/image/53241265_301.jpg" title="Coronavirus | Deutschland | Krankenhaus Havelhöhe Berlin"/> </div>
+<h2 class="">
+Triage: Wer wird behandelt, wer nicht?
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/ewiger-streit-um-teure-jets/g-53242632">
+<div class="teaserImg pic">
+<img alt="Coronavirus - Deutsche Tornados auf dem Rückflug aus dem Irak" itemprop="image" src="/image/52987626_301.jpg" title="Coronavirus - Deutsche Tornados auf dem Rückflug aus dem Irak"/> </div>
+<h2 class="">
+Ewiger Streit um teure Jets
+<span class="icon pics"></span> </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/pandemischer-populismus/a-53232833">
+<div class="teaserImg articl">
+<img alt="Symbolbild Falschinformation in einem sozialen Netzwerk" itemprop="image" src="/image/52333187_301.jpg" title="Symbolbild Falschinformation in einem sozialen Netzwerk"/> </div>
+<h2 class="">
+​​Pandemischer Populismus </h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17891898">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/europa/s-12322">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Europa</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/polen-donald-tusk-will-präsidentschaftswahlen-boykottieren/a-53271061">
+<div class="teaserImg articl">
+<img alt="EVP Kongress in Zagreb " itemprop="image" src="/image/51354965_301.jpg" title="EVP Kongress in Zagreb "/> </div>
+<h2 class="">
+Polen: Donald Tusk will Präsidentschaftswahlen boykottieren
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/coronavirus-erdogan-verteidigt-homophobe-theorie/a-53268749">
+<div class="teaserImg articl">
+<img alt="Türkei Tayyip Erdogan und Ali Erbas" itemprop="image" src="/image/50518585_301.jpg" title="Türkei Tayyip Erdogan und Ali Erbas"/> </div>
+<h2 class="">
+Coronavirus: Erdogan verteidigt homophobe Theorie </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/tourismus-in-der-eu-nach-corona-mit-vielen-fragezeichen/a-53269118">
+<div class="teaserImg articl">
+<img alt="Italien Die Adriaküste bei Rimini" itemprop="image" src="/image/53149172_301.jpg" title="Italien Die Adriaküste bei Rimini"/> </div>
+<h2 class="">
+Tourismus in der EU nach Corona mit vielen Fragezeichen
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/exklusiv-interview-mit-prags-ob-zdeněk-hřib-ich-stehe-zur-demokratie-auch-wenn-ich-mein-leben-riskiere/a-53268686">
+<div class="teaserImg articl">
+<img alt="Zdenek Hrib Oberbürgermeister von Prag im Interview mit Zhanna Nemtsova" itemprop="image" src="/image/48805051_301.jpg" title="Zdenek Hrib Oberbürgermeister von Prag im Interview mit Zhanna Nemtsova"/> </div>
+<h2 class="">
+Exklusiv-Interview mit Prags OB Zdeněk Hřib: "Ich stehe zur Demokratie, auch wenn ich mein Leben riskiere!"
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17882153">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/afrika/s-12324">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Afrika</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/afrikas-erfahrung-im-umgang-mit-epidemien-hilft-bei-corona-bekämpfung/a-53236198">
+<div class="teaserImg articl">
+<img alt="Coronavirus Afrika Nigeria Lagos Essensausgabe" itemprop="image" src="/image/53214202_301.jpg" title="Coronavirus Afrika Nigeria Lagos Essensausgabe"/> </div>
+<h2 class="">
+Afrikas Erfahrung im Umgang mit Epidemien hilft bei Corona-Bekämpfung
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/covid-19-wie-hart-wird-afrika-getroffen/a-53261217">
+<div class="teaserImg articl">
+<img alt="Südafrika Corona-Pandemie" itemprop="image" src="/image/53179372_301.jpg" title="Südafrika Corona-Pandemie"/> </div>
+<h2 class="">
+COVID-19: Wie hart wird Afrika getroffen?
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/wie-china-in-der-corona-krise-seinen-einfluss-in-afrika-ausbaut/a-53226444">
+<div class="teaserImg articl">
+<img alt="Ghana Accra | Coronavirus | Chinesische Hilfsgüter " itemprop="image" src="/image/53218731_301.jpg" title="Ghana Accra | Coronavirus | Chinesische Hilfsgüter "/> </div>
+<h2 class="">
+Wie China in der Corona-Krise seinen Einfluss in Afrika ausbaut
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/schlechte-datenlage-erschwert-kampf-gegen-covid-19-in-afrika/a-53211366">
+<div class="teaserImg articl">
+<img alt="Kenia Corona-Pandemie" itemprop="image" src="/image/53179342_301.jpg" title="Kenia Corona-Pandemie"/> </div>
+<h2 class="">
+Schlechte Datenlage erschwert Kampf gegen COVID-19 in Afrika
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17882281">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/asien/s-12326">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Asien</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/die-lange-quarantäne-der-iranischen-sängerinnen/a-53260978">
+<div class="teaserImg articl">
+<img alt="Iranische Musiker unter Quarantäne" itemprop="image" src="/image/53249754_301.jpg" title="Iranische Musiker unter Quarantäne"/> </div>
+<h2 class="">
+Die lange Quarantäne der iranischen Sängerinnen
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/jens-spahn-sagt-danke-für-taiwans-maskenspende/a-53256927">
+<div class="teaserImg articl">
+<img alt="Taiwan | Coronavirus: Menschen mit Gesichtsmasken am Hsing Tian Kong Tempel" itemprop="image" src="/image/52930967_301.jpg" title="Taiwan | Coronavirus: Menschen mit Gesichtsmasken am Hsing Tian Kong Tempel"/> </div>
+<h2 class="">
+Jens Spahn sagt Danke für Taiwans Maskenspende
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/iran-usa-israel-neue-konfrontation-am-golf/a-53232277">
+<div class="teaserImg articl">
+<img alt="Iran Militärsatellit Semnan Satellit " itemprop="image" src="/image/53228846_301.jpg" title="Iran Militärsatellit Semnan Satellit "/> </div>
+<h2 class="">
+Iran, USA, Israel: Neue Konfrontation am Golf?
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/vietnams-kriegserklärung-an-corona/a-52923517">
+<div class="teaserImg articl">
+<img alt="Vietnam Hanoi | Schutzmaßnahmen vor Coronavirus" itemprop="image" src="/image/52368236_301.jpg" title="Vietnam Hanoi | Schutzmaßnahmen vor Coronavirus"/> </div>
+<h2 class="">
+Vietnams Kriegserklärung an Corona
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="18384530">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/kommentare/s-101460">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Kommentare</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/kommentar-die-sommermärchen-wahrheit-kommt-wohl-nie-ans-licht/a-53261903">
+<div class="teaserImg articl">
+<img alt="Fußball-WM 2006 - Organisationskomitee" itemprop="image" src="/image/18787389_301.jpg" title="Fußball-WM 2006 - Organisationskomitee"/> </div>
+<h2 class="">
+Kommentar: Die Sommermärchen-Wahrheit kommt wohl nie ans Licht
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/görlach-global-beflügelt-die-corona-krise-den-islamismus/a-53259444">
+<div class="teaserImg articl">
+<img alt="DW Zitattafel Alexander Görlach" itemprop="image" src="/image/53259887_301.jpg" title="DW Zitattafel Alexander Görlach"/> </div>
+<h2 class="">
+Görlach Global: Beflügelt die Corona-Krise den Islamismus?
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/kommentar-waffen-helfen-nicht-gegen-coronaviren/a-53233276">
+<div class="teaserImg articl">
+<img alt="USA - Rakete Missile-2" itemprop="image" src="/image/52906951_301.jpg" title="USA - Rakete Missile-2"/> </div>
+<h2 class="">
+Kommentar: Waffen helfen nicht gegen Coronaviren
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/kommentar-was-uns-stephen-colbert-und-rousseau-über-corona-lehren/a-53235278">
+<div class="teaserImg articl">
+<img alt="Bildkombo Stephen Colbert und Jean-Jacques Rousseau " itemprop="image" src="/image/53214439_301.jpg" title="Bildkombo Stephen Colbert und Jean-Jacques Rousseau "/> </div>
+<h2 class="">
+Kommentar: Was uns Stephen Colbert und Rousseau über Corona lehren
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17861030">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/wirtschaft/s-1503">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Wirtschaft</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/exportiert-wird-immer-aber-viel-weniger/a-53272074">
+<div class="teaserImg articl">
+<img alt="Hamburg | Containerschiff am Containerterminal Tollerort " itemprop="image" src="/image/51939890_301.jpg" title="Hamburg | Containerschiff am Containerterminal Tollerort "/> </div>
+<h2 class="">
+Exportiert wird immer (aber viel weniger)
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/arbeitsmarkt-im-corona-modus/av-53270435">
+<div class="teaserImg audio">
+<img border="0" height="124" src="/i/audio-gr-3sp.gif" width="220"/>
+</div>
+<h2 class="">
+Arbeitsmarkt im Corona-Modus <span class="icon audio"></span> </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/entlassungen-trotz-kurzarbeit/a-53269059">
+<div class="teaserImg articl">
+<img alt="Symbolbild: US-Arbeitsmarkt - Arbeiter" itemprop="image" src="/image/52850002_301.jpg" title="Symbolbild: US-Arbeitsmarkt - Arbeiter"/> </div>
+<h2 class="">
+Entlassungen trotz Kurzarbeit
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/seeleute-an-bord-gefangen/av-53266566">
+<div class="teaserImg tv">
+<img border="0" height="124" src="https://tvdownloaddw-a.akamaihd.net/stills/images/vdt_de/2020/bdeu200428_001_dwiseeweb_01g.jpg" width="220"/>
+</div>
+<h2 class="">
+Seeleute an Bord gefangen
+<span class="icon tv"></span> </h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17878331">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/kultur/s-1534">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Kultur</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/tourismus-die-corona-krise-und-ihre-weitreichenden-folgen/g-52693665">
+<div class="teaserImg pic">
+<img alt="Ostfriesland Ostfriesische Inseln Tourismus in Coronazeiten" itemprop="image" src="/image/53074087_301.jpg" title="Ostfriesland Ostfriesische Inseln Tourismus in Coronazeiten"/> </div>
+<h2 class="">
+Tourismus: Die Corona-Krise und ihre weitreichenden Folgen
+<span class="icon pics"></span> </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/corona-krise-hat-das-kino-noch-eine-zukunft/a-53266144">
+<div class="teaserImg articl">
+<img alt="Deutschland Kurzfilmtage Oberhausen Lars Henrik Gass" itemprop="image" src="/image/53270473_301.jpg" title="Deutschland Kurzfilmtage Oberhausen Lars Henrik Gass"/> </div>
+<h2 class="">
+Corona-Krise: Hat das Kino noch eine Zukunft?
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/wie-künstler-und-kreative-mit-corona-masken-arbeiten/g-53262422">
+<div class="teaserImg pic">
+<img alt="Großbritannien London Coronavirus Graffiti" itemprop="image" src="/image/53257561_301.jpg" title="Großbritannien London Coronavirus Graffiti"/> </div>
+<h2 class="">
+Wie Künstler und Kreative mit Corona-Masken arbeiten
+<span class="icon pics"></span> </h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/reisen-in-gedanken-mit-11-büchern-um-die-welt/g-53256950">
+<div class="teaserImg pic">
+<img alt="USA Kalifornien La Jolla Strand" itemprop="image" src="/image/53216934_301.jpg" title="USA Kalifornien La Jolla Strand"/> </div>
+<h2 class="">
+Reisen in Gedanken: Mit 11 Büchern um die Welt
+<span class="icon pics"></span> </h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17891917">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/wissen-umwelt/s-12296">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Wissenschaft</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/corona-kinderpsyche-im-lockdown/a-53266103">
+<div class="teaserImg articl">
+<img alt="Eltern Streit Kind Familienstreit" itemprop="image" src="/image/17889355_301.jpg" title="Eltern Streit Kind Familienstreit"/> </div>
+<h2 class="">
+Corona: Kinderpsyche im Lockdown
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/corona-höheres-infektionsrisiko-durch-fasten-im-ramadan/a-53271025">
+<div class="teaserImg articl">
+<img alt="Ramadan Duaa junge betet in einer Moschee Sri Lanka" itemprop="image" src="/image/53255767_301.jpg" title="Ramadan Duaa junge betet in einer Moschee Sri Lanka"/> </div>
+<h2 class="">
+Corona – höheres Infektionsrisiko durch Fasten im Ramadan?
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/coronavirus-was-ist-die-reproduktionszahl-r/a-53200591">
+<div class="teaserImg articl">
+<img alt="Husten Niesen Arm Keime" itemprop="image" src="/image/17351579_301.jpg" title="Husten Niesen Arm Keime"/> </div>
+<h2 class="">
+Coronavirus: Was ist die Reproduktionszahl R?
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/petersberger-klimadialog-wie-lässt-sich-corona-und-klimakrise-zusammen-lösen-merkel-guterres/a-53262778">
+<div class="teaserImg articl">
+<img alt="Petersberger Klimadialog | Svenja Schulze" itemprop="image" src="/image/53258355_301.jpg" title="Petersberger Klimadialog | Svenja Schulze"/> </div>
+<h2 class="">
+Petersberger Klimadialog: Corona- und Klimakrise zusammen lösen
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- AutoTopic-Teaser -->
+<div class="autoTopicTeaser" data-id="17878335">
+<div class="col4 pb0">
+<!-------- AutoTopicLinkMode --------------------------->
+<a class="linkAutoTopic" href="/de/themen/sport/s-12284">Mehr</a>
+<!------ AutoTopicLinkMode-End --------------------------->
+<h4>Sport</h4>
+<div class="group">
+<input name="showTeasers" type="hidden" value="false"/>
+<input name="dateDisplayMode" type="hidden" value="NO_DATE"/>
+<div id="autoTopicTeaserResults">
+<div class="oneLine">
+<div class="col1">
+<div class="news searchres">
+<a href="/de/corona-krise-europas-topligen-wollen-spielen-dürfen-aber-noch-nicht/a-53193438">
+<div class="teaserImg articl">
+<img alt="Symbolbild | Geisterspiel wegen Corona Virus" itemprop="image" src="/image/52723524_301.jpg" title="Symbolbild | Geisterspiel wegen Corona Virus"/> </div>
+<h2 class="">
+Corona-Krise: Europas Topligen wollen spielen, dürfen aber (noch) nicht
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/corona-krise-und-sport-olympia-in-tokio-2021-oder-gar-nicht/a-52774432">
+<div class="teaserImg articl">
+<img alt="Japan Tokio Olympia 2020" itemprop="image" src="/image/52883987_301.jpg" title="Japan Tokio Olympia 2020"/> </div>
+<h2 class="">
+Corona-Krise und Sport: : Olympia in Tokio - 2021 oder gar nicht
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/premier-league-arbeitet-am-wiedereinstieg/a-53264632">
+<div class="teaserImg articl">
+<img alt="Fußball FC Liverpool Trent Alexander Arnold Einwurf " itemprop="image" src="/image/52540196_301.jpg" title="Fußball FC Liverpool Trent Alexander Arnold Einwurf "/> </div>
+<h2 class="">
+Premier League arbeitet am Wiedereinstieg
+</h2>
+</a>
+</div>
+</div>
+<div class="col1">
+<div class="news searchres">
+<a href="/de/kommentar-die-sommermärchen-wahrheit-kommt-wohl-nie-ans-licht/a-53261903">
+<div class="teaserImg articl">
+<img alt="Fußball-WM 2006 - Organisationskomitee" itemprop="image" src="/image/18787389_301.jpg" title="Fußball-WM 2006 - Organisationskomitee"/> </div>
+<h2 class="">
+Kommentar: Die Sommermärchen-Wahrheit kommt wohl nie ans Licht
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--[if lt IE 8 ]></div><![endif]-->
+<div style="clear:both;"></div>
+</div>
+</div>
+<!-- Footer -->
+<div id="footerSection" style="clear:both;">
+<div id="footerBody">
+<ul class="footer">
+<li><a href="/de/themen/s-9077" style="font-weight: bold;" title="Nachrichten &amp; Analysen: der globale Blick auf Schlagzeilen">THEMEN</a>
+</li>
+<li><a href="/de/themen/deutschland/s-12321" title="Deutschland">Deutschland</a></li>
+<li><a href="/de/themen/coronavirus/s-42108563" title="Coronavirus und Covid-19 - aktuelle Nachrichten zur Pandemie">Coronavirus</a></li>
+<li><a href="/de/themen/welt/s-100029" title="Welt">Welt</a></li>
+<li><a href="/de/themen/wirtschaft/s-1503" title="Wirtschaft">Wirtschaft</a></li>
+<li><a href="/de/themen/kultur/s-1534" title="Kultur">Kultur</a></li>
+<li><a href="/de/themen/wissen-umwelt/s-12296" title="Wissen &amp; Umwelt">Wissen &amp; Umwelt</a></li>
+<li><a href="/de/themen/sport/s-12284" title="Sport">Sport</a></li>
+<li> </li>
+<li><a href="/de/themen-von-a-bis-z/index-de">Themen von A bis Z</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/media-center/s-100813" style="font-weight: bold;" title="Das Media Center: Die Mediathek der Deutschen Welle">MEDIA CENTER</a>
+</li>
+<li><a href="/de/media-center/live-tv/s-100817" title="Deutsche Welle Live TV Stream: Nachrichten aus aller Welt">Live TV</a></li>
+<li><a href="/de/media-center/alle-inhalte/s-100814" title="Alle multimedialen Inhalte der Deutschen Welle">Alle Inhalte</a></li>
+<li><a href="/de/media-center/sendung-verpasst/s-100815" title="Sie haben eine Sendung der Deutschen Welle verpasst?">Sendung verpasst?</a></li>
+<li><a href="/de/media-center/deutschkurse/s-100816" title="Online deutsch lernen mit Videos und Audios der DW">Deutschkurse</a></li>
+<li><a href="/de/media-center/podcasts/s-100976" title="Podcasts: Abonnieren Sie unsere Radio und TV Podcasts">Podcasts</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/tv/s-9093" style="font-weight: bold;" title="TV">TV</a>
+</li>
+<li><a href="/de/tv/programmübersicht/s-4765" title="TV-Programmplan und Empfang">Programmübersicht</a></li>
+<li><a href="/de/tv/tv-sendungen/s-9094" title="TV Sendungen">TV Sendungen</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/deutsch-lernen/s-2055" style="font-weight: bold;" title="DEUTSCH LERNEN">DEUTSCH LERNEN</a>
+</li>
+<li><a href="/de/deutsch-lernen/deutschkurse/s-2068" title="Deutschkurse">Deutschkurse</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/de/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/de/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/unternehmen/profil/s-30626" style="font-weight: bold;" title="UNTERNEHMEN">UNTERNEHMEN</a>
+</li>
+<li><a href="/de/unternehmen/profil/s-30626" title="Über uns">Über uns</a></li>
+<li><a href="/de/unternehmen/karriere/s-11525" title="Machen Sie Karriere – Aktuelle Jobs bei der Deutschen Welle">Karriere</a></li>
+<li><a href="/de/unternehmen/presse/s-2981" title="Presse">Presse</a></li>
+<li><a href="/de/unternehmen/business-sales/s-3086" title="Business &amp; Sales">Business &amp; Sales</a></li>
+<li><a href="/de/unternehmen/travel/s-7456" title="Travel Distribution">Travel</a></li>
+<li><a href="https://dwwerbung.com" title="Werbung">Werbung</a></li>
+</ul>
+<ul class="footer">
+<li><a href="/de/service/empfang/s-4136" style="font-weight: bold;" title="Service">SERVICE</a>
+</li>
+<li><a href="/de/service/empfang/s-4136" title="Empfang der TV Programme der Deutschen Welle in Ihrer Region">Empfang</a></li>
+<li><a href="/de/service/apps-co/s-50833969" title="DW Apps für iOS, Android, Smart TV und Sprachassistenten">Apps &amp; Co.</a></li>
+<li><a href="/newsletter-anmeldung/a-15718221" title="Newsletter &amp; Co.">Newsletter &amp; Co.</a></li>
+<li><a href="/de/service/faq/s-30582" title="FAQ: Antworten auf häufige Fragen an die Deutsche Welle">FAQ</a></li>
+<li><a href="/de/service/kontakt/s-30583" title="Anschriften und Ansprechpartner bei der Deutschen Welle">Kontakt</a></li>
+<li> </li>
+<li><a href="/de/dw-akademie/über-uns/s-8101" style="font-weight: bold;" title="DW AKADEMIE">DW AKADEMIE</a>
+</li>
+<li><a href="/de/dw-akademie/über-uns/s-8101" title="Über Uns | DW Akademie">Über uns</a></li>
+<li><a href="/de/dw-akademie/medienentwicklung/s-11812" title="Medienentwicklung | DW Akademie">Medienentwicklung</a></li>
+<li><a href="/de/dw-akademie/studium/s-12262" title="International Media Studies: Studium bei der Deutschen Welle">Studium</a></li>
+<li><a href="/de/dw-akademie/volontariat/s-11881" title="Starten Sie durch mit einem Volontariat der Deutschen Welle">Volontariat</a></li>
+<li><a href="/de/dw-akademie/medientraining/s-11813" title="Medientraining I Auftritt in Medien und Öffentlichkeit">Medientraining</a></li>
+</ul>
+<p id="copyright">
+© 2020 Deutsche Welle |
+<a href="/de/definition-und-nutzung-von-daten-durch-die-deutsche-welle-gemäß-eu-dsgvo/a-18265186">Datenschutz</a> |
+<a href="/impressum">Impressum</a> |
+<a href="/kontakt">Kontakt</a>
+| <a href="https://m.dw.com/de/themen/s-9077" id="mobilePreferredLink">Mobile Version</a>
+</p>
+</div></div>
+<!-- /Footer -->
+</div>
+</div>
+</body></html>
