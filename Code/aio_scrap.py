@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from lxml import html, etree
+import pymysql.cursors
 import time
 
 
@@ -108,20 +109,46 @@ dwon_tree = etree.parse(dwon_filestring, dwon_parser)
 zon_elem_text = zon_tree.xpath('//p[@class="zon-teaser-standard__text"]/text()')
 zon_elem_title = zon_tree.xpath('//span[@class="zon-teaser-standard__title"]/text()')
 zon_elem_author = zon_tree.xpath('//span[@class="zon-teaser-standard__byline"]/text()')
+zon_list = [zon_elem_title, zon_elem_text, zon_elem_author, 'Zeit']
 #nzz.ch(database ready)
 nzzon_elem_text = nzzon_tree.xpath('//div[@class="teaser__lead teaser__lead--2of3 teaser__lead--longformstandard"]/text()')
 nzzon_elem_title = nzzon_tree.xpath('//span[@class="teaser__title-name"]/text()')
 nzzon_elem_author = nzzon_tree.xpath('//span[@class="metainfo__item metainfo__item--author"]/text()')
+nzzon_list = [nzzon_elem_title, nzzon_elem_text, nzzon_elem_author, 'Neu Zuericher Zeitung']
 #hon.com(database ready)
 hon_elem_text = hon_tree.xpath('//p[@class="vhb-teaser-content"]/text()')
 hon_elem_title = hon_tree.xpath('//span[@class="vhb-headline"]/text()')
 hon_elem_author = hon_tree.xpath('//span[@class="vhb-author"]/text()')
+hon_list = [hon_elem_title, hon_elem_text, hon_elem_author, 'Handelsblatt']
 #tagesschau.de(database ready)
 tagon_elem_text = tagon_tree.xpath('//p[@class="teasertext"]/text()')
 tagon_elem_title = tagon_tree.xpath('//h4[@class="headline"]/text()')
 tagon_elem_author = tagon_tree.xpath('//em')
+tagon_list = [tagon_elem_title, tagon_elem_text, tagon_elem_author, 'Tagesschau']
 
 #TODO HOHER PRIO: Einlesen der Strings, die in den Elementlisten (xxx_elem_xxx) enthalten sind, in die Datenbank.
+
+#Methode zum Einlesen von Elementen in die MySQL Datenbank.
+def write_to_database(list):
+    connection = pymysql.connect(host='localhost', user='root', password='', database='html_scrapping', charset='utf8mb4')
+
+    try:
+        with connection.cursor() as cursor:
+
+            author = "INSERT INTO autor(name) VALUES(%s)"
+            article = "INSERT INTO artikel(schlagzeile, artikeltext) VALUES(%s, %s)"
+            source = "INSERT INTO quelle(bezeichnung) VALUES(%s)"
+            scrap_time = "INSERT INTO datum(einlesezeitpunkt) VALUES(%s)"
+
+            cursor.execute(author, list[2])
+            cursor.execute(article, list[0], list[1])
+            cursor.execute(source, list[3])
+            cursor.execute(scrap_time, get_date())
+        connection.commit()
+
+    finally:
+        connection.close()
+
 
 
 
