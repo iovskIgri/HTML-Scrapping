@@ -1,8 +1,9 @@
 import requests
-from bs4 import BeautifulSoup
-from lxml import html, etree
 import pymysql.cursors
 import time
+from bs4 import BeautifulSoup
+from lxml import html, etree
+
 
 # Definition der beiden "Durchsuchungsobjekte" die ihre jeweilige Baumstruktur dursuchen werden.
 # TODO niedriger Prio: Zuweisung des Parsers als allgemeine Methode.
