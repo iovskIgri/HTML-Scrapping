@@ -1,0 +1,234 @@
+/* ALLGEMEIN */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: calibri, sans-serif;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+p {
+ padding-top: 10px;
+ padding-bottom: 10px;
+  }
+
+/* NAVIGATION */
+
+#navigation {
+    background-color: #7c8c8c;
+}
+
+#banner {
+    display: flex;
+    align-items: center;
+    background: url(teamlogo.jpg);
+    background-size: cover;
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    z-index: 0;
+    text-align: center;
+}
+
+#banner h1 {
+    border-bottom: 1px solid white;
+    text-align: left;
+    color: #274e71;
+    font-size: 4em;
+}
+
+#banner img {
+    padding: 0 30px;
+}
+
+#menu {
+    overflow: hidden;
+    background-color: #333;
+}
+
+#menu a {
+    float: left;
+    border-right: 1px solid #bbb;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+#menu a:hover:not(.active) {
+    background-color: #111;
+}
+
+#inhalt {
+    border: solid;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    display: block;
+    text-align: center;
+    width: 1000px;
+}
+
+#inhalt.img {
+    width: 950px;
+}
+
+#inhalt .ueber_uns {}
+
+#inhalt .ueber_uns img {
+    height: 250px;
+    width: 200px;
+}
+
+#inhalt .ueber_uns a {
+    text-decoration: none;
+}
+
+#formular {
+    float: left;
+}
+
+#formular .input {
+    float: right;
+}
+
+
+
+#inhalt .formular {
+    padding: 1em;
+}
+
+#inhalt .formular h1 {
+    text-align: left;
+}
+
+#inhalt .button {
+    background-color: grey;
+    color: white;
+    padding: 0.5em;
+    margin: 0.5em;
+    border: none;
+    font-size: 1em;
+    text-align: center;
+    width: 15em;
+    cursor: pointer;
+}
+
+#history {
+    position: relative;
+}
+
+#history .button {
+    margin: 0px;
+}
+
+#history .button:hover {
+    background-color: #333;
+}
+
+.history-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    width: 15em;
+    right: 0;
+}
+
+.history-content a:hover {
+    background-color: #bbb;
+}
+
+#history:hover .history-content {
+    display: block;
+}
+
+.history-content a {
+    color: black;
+    padding: 0.6em 1em;
+    text-decoration: none;
+    display: block;
+}
+
+#inhalt .hinweis {
+    border-top: 1px solid black;
+    padding: 1em;
+}
+
+#inhalt {
+    line-height: 1.3;
+}
+
+#inhalt .logoHs {
+    width: 600px;
+    height: 280px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+/* Footer */
+
+#footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    border: 1px solid #333;
+    background-color: #333;
+    text-align: center;
+    color: white;
+}
+
+div.table-title {
+    display: block;
+    margin: auto;
+    max-width: 600px;
+    padding: 5px;
+    width: 100%;
+    
+}
+
+.table-title h3 {
+    color: #fafafa;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto", helvetica, arial, sans-serif;
+    text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+}
+
+.database {
+    display: flex;
+    flex-direction: row;
+}
+
+.database_column {
+    width: 50%;
+}
+
+.database_column h3 {
+    padding: 20px;
+    background-color: #4E5066;
+    color: #FFF;
+    border: 1px solid black;
+}
+
+.database_item {
+    border: 1px solid black;
+    text-align: start;
+    padding: 10px;
+}
+
+.database_item:hover {
+    background-color: #C1C3d1;
+    transition: 0.2s ease-in-out all;
+}
+
+.select-date {
+    margin: 30px 0;
+}
